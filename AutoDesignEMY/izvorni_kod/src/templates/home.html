@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% from "macros.html" import picture, tile, why_block, materials_block, social_block, cta_block with context %}
+{% block content %}
+<section class="hero" aria-labelledby="hero-title">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="kicker">{{ t.home.kicker }}</p>
+      <h1 id="hero-title">{{ t.home.title }}</h1>
+      <p class="lead">{{ t.home.lead }}</p>
+      <div class="btn-row">
+        <a class="btn btn-red" href="{{ tel }}">{{ icon('phone') }}{{ t.cta.call }}</a>
+        <a class="btn btn-wa" href="{{ wa }}" target="_blank" rel="noopener">{{ icon('whatsapp') }}WhatsApp</a>
+        <a class="btn btn-line" href="{{ url(lang, 'gallery') }}">{{ t.cta.see_work }}</a>
+      </div>
+      <div class="hero-meta">
+        <span>{{ icon('pin') }}{{ address }}</span>
+        <span>{{ icon('clock') }}{{ t.contact.hours_short }}</span>
+      </div>
+    </div>
+    <div class="hero-media">
+      <div class="hero-frame" style="background-image:url({{ root }}media/hero/hero.webp)">
+        <video class="hero-video" muted loop playsinline autoplay preload="metadata" poster="{{ root }}media/hero/hero.webp" aria-hidden="true" tabindex="-1">
+          <source src="{{ root }}media/hero/hero.mp4" type="video/mp4">
+        </video>
+      </div>
+      <p class="hero-tag" aria-hidden="true">Auto Design EMY</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="svc-title">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div><span class="mark"></span><h2 id="svc-title">{{ t.home.services_title }}</h2><p class="lead">{{ t.home.services_lead }}</p></div>
+      <a class="link-arrow" href="{{ url(lang, 'services') }}">{{ t.cta.all_services }}</a>
+    </div>
+    <div class="cards reveal">
+      {% for key, img in [('wheel','volan-audi-alcantara'),('seats','sjediste-sace'),('interior','tapacir-vrata-sace')] %}
+      <a class="card" href="{{ url(lang, 'services') }}#{{ key }}">
+        <div class="card-img">{{ picture(img, t.cards[key].title, '(max-width: 560px) 100vw, (max-width: 1060px) 50vw, 300px') }}</div>
+        <div class="card-body"><h3>{{ t.cards[key].title }}</h3><p>{{ t.cards[key].text }}</p></div>
+      </a>
+      {% endfor %}
+      <a class="card card-text" href="{{ url(lang, 'services') }}#cleaning">
+        <div class="card-body"><h3>{{ t.cards.cleaning.title }}</h3><p>{{ t.cards.cleaning.text }}</p></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{ materials_block() }}
+
+<section class="section" aria-labelledby="work-title" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <div><span class="mark"></span><h2 id="work-title">{{ t.home.work_title }}</h2><p class="lead">{{ t.home.work_lead }}</p></div>
+      <a class="link-arrow" href="{{ url(lang, 'gallery') }}">{{ t.cta.view_gallery }}</a>
+    </div>
+    <div class="grid grid-featured reveal" data-gallery="featured">
+      {% for item in featured %}{{ tile(item, loop.index0) }}{% endfor %}
+    </div>
+  </div>
+</section>
+
+{{ why_block() }}
+
+<section class="section" aria-labelledby="steps-title" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head reveal"><div><span class="mark"></span><h2 id="steps-title">{{ t.home.steps_title }}</h2></div></div>
+    <ol class="steps reveal">
+      {% for s in t.steps %}<li class="step"><h3>{{ s.title }}</h3><p>{{ s.text }}</p></li>{% endfor %}
+    </ol>
+  </div>
+</section>
+
+{{ social_block() }}
+{{ cta_block() }}
+{% endblock %}

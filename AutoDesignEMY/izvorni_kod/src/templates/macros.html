@@ -1,0 +1,96 @@
+{% macro picture(name, alt, sizes='100vw', loading='lazy', cls='') -%}
+{%- set im = images[name] -%}
+<picture>
+  <source type="image/webp" srcset="{% for f, w in im.webp %}{{ root }}assets/img/{{ f }} {{ w }}w{% if not loop.last %}, {% endif %}{% endfor %}" sizes="{{ sizes }}">
+  <img src="{{ root }}assets/img/{{ im.jpg }}" alt="{{ alt }}" width="{{ im.w }}" height="{{ im.h }}" loading="{{ loading }}" decoding="async"{% if cls %} class="{{ cls }}"{% endif %}>
+</picture>
+{%- endmacro %}
+
+{% macro tile(item, idx) -%}
+<button class="tile" type="button" data-index="{{ idx }}" data-cat="{{ item.cat }}" data-type="{{ item.type }}" aria-label="{{ t.gallery.open }}: {{ item_alt(item) }}{% if item.type == 'video' %} ({{ t.gallery.video }}){% endif %}">
+  <img src="{{ root }}{{ item.thumb }}" alt="" loading="lazy" decoding="async" width="{{ item.w }}" height="{{ item.h }}">
+  {% if item.type == 'video' %}<span class="tile-play" aria-hidden="true"><svg viewBox="0 0 16 16"><path d="M3 1.5v13l11-6.5z"/></svg></span>{% endif %}
+  {% if item_cap(item) %}<span class="tile-cap" aria-hidden="true">{{ item_cap(item) }}</span>{% endif %}
+</button>
+{%- endmacro %}
+
+{% macro why_block() -%}
+<section class="section" aria-labelledby="why-title">
+  <div class="wrap">
+    <div class="section-head reveal"><div><span class="mark"></span><h2 id="why-title">{{ t.home.why_title }}</h2></div></div>
+    <div class="why reveal">
+      {% for w in t.why %}<div class="why-item"><span class="why-num">0{{ loop.index }}</span><h3>{{ w.title }}</h3><p>{{ w.text }}</p></div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro materials_block() -%}
+<section class="section" aria-labelledby="mat-title" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head reveal"><div><span class="mark"></span><h2 id="mat-title">{{ t.home.materials_title }}</h2><p class="lead">{{ t.home.materials_lead }}</p></div></div>
+    <ul class="swatches reveal" style="list-style:none;margin:0;padding:0">
+      {% for key, img in [('alcantara','mat-alcantara'),('perforated','mat-perforirana-koza'),('smooth_perf','mat-glatka-perforirana'),('diamond','mat-romb'),('honeycomb','mat-sace')] %}
+      <li class="swatch"><figure>{{ picture(img, '', '(max-width: 480px) 50vw, 200px') }}<figcaption>{{ t.materials[key] }}</figcaption></figure></li>
+      {% endfor %}
+      <li class="swatch"><figure><div class="swatch-thread" aria-hidden="true"><svg viewBox="0 0 120 120"><g fill="none" stroke-width="7" stroke-linecap="round" stroke-dasharray="12 9">
+        <path d="M14 30 Q60 10 106 30" stroke="#D6242C"/><path d="M14 50 Q60 30 106 50" stroke="#F4F3F0"/><path d="M14 70 Q60 50 106 70" stroke="#3B82F6"/><path d="M14 90 Q60 70 106 90" stroke="#2EC4B6"/><path d="M14 110 Q60 90 106 110" stroke="#F2B705"/></g></svg></div><figcaption>{{ t.materials.thread }}</figcaption></figure></li>
+    </ul>
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro social_block() -%}
+<section class="section band-dark" aria-labelledby="social-title">
+  <div class="wrap social-grid">
+    <div class="reveal">
+      <span class="mark"></span>
+      <h2 id="social-title">{{ t.home.social_title }}</h2>
+      <p class="lead" style="margin-top:14px">{{ t.home.social_lead }}</p>
+      <div class="stats">
+        <div class="stat"><strong>440+</strong><span>{{ t.about.fact_posts }}</span></div>
+        <div class="stat"><strong>{{ followers }}</strong><span>{{ t.about.fact_followers }}</span></div>
+      </div>
+    </div>
+    <div class="social-links reveal">
+      {% for s in socials %}<a class="social-link" href="{{ s.url }}" target="_blank" rel="noopener">{{ icon(s.icon) }}<span><strong>{{ s.name }}</strong><small>{{ s.handle }}</small></span></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro cta_block() -%}
+<section class="section" aria-labelledby="cta-title">
+  <div class="wrap">
+    <div class="cta reveal">
+      <div>
+        <span class="mark"></span>
+        <h2 id="cta-title">{{ t.home.cta_title }}</h2>
+        <p class="lead">{{ t.home.cta_lead }}</p>
+        <ul class="cta-info">
+          <li>{{ address }}</li>
+          <li>{{ t.contact.hours_value }}</li>
+        </ul>
+      </div>
+      <div>
+        <a class="cta-phone" href="{{ tel }}">{{ phone_display }}</a>
+        <div class="btn-row">
+          <a class="btn btn-red" href="{{ tel }}">{{ icon('phone') }}{{ t.cta.call }}</a>
+          <a class="btn btn-wa" href="{{ wa }}" target="_blank" rel="noopener">{{ icon('whatsapp') }}WhatsApp</a>
+          <a class="btn btn-viber" href="{{ viber }}">{{ icon('viber') }}Viber</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{%- endmacro %}
+
+{% macro page_head(title, lead, crumb) -%}
+<div class="page-head wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="{{ url(lang, 'home') }}">{{ t.nav.home }}</a></li><li aria-current="page">{{ crumb }}</li></ol></nav>
+  <h1>{{ title }}</h1>
+  <p class="lead">{{ lead }}</p>
+</div>
+{%- endmacro %}

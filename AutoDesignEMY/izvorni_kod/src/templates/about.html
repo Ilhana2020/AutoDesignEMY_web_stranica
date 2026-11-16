@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% from "macros.html" import picture, page_head, why_block, social_block, cta_block with context %}
+{% block content %}
+<div class="page-head wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="{{ url(lang, 'home') }}">{{ t.nav.home }}</a></li><li aria-current="page">{{ t.nav.about }}</li></ol></nav>
+  <h1>{{ t.about.title }}</h1>
+</div>
+<section class="wrap" style="padding-bottom:var(--section)">
+  <div class="about-grid">
+    <div class="prose reveal">
+      <p class="lead" style="max-width:none;color:var(--ink);font-weight:600">{{ t.about.lead }}</p>
+      {% for p in t.about.p %}<p>{{ p }}</p>{% endfor %}
+      <h2 class="sr-only">{{ t.about.facts_title }}</h2>
+      <div class="facts">
+        <div class="fact"><strong>440+</strong><span>{{ t.about.fact_posts }}</span></div>
+        <div class="fact"><strong>{{ followers }}</strong><span>{{ t.about.fact_followers }}</span></div>
+        <div class="fact"><strong>6</strong><span>{{ t.about.fact_days }}</span></div>
+      </div>
+    </div>
+    <div class="about-img reveal">{{ picture('volan-bmw-u-vozilu', t.cards.wheel.title ~ ' – Auto Design EMY', '(max-width: 860px) 100vw, 480px') }}</div>
+  </div>
+</section>
+{{ why_block() }}
+{{ social_block() }}
+{{ cta_block() }}
+{% endblock %}

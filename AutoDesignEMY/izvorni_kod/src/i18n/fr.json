@@ -1,0 +1,102 @@
+{
+  "lang_name": "Français",
+  "nav": {"home": "Accueil", "services": "Services", "gallery": "Galerie", "about": "À propos", "contact": "Contact", "menu": "Menu", "close": "Fermer", "language": "Langue", "skip": "Aller au contenu", "main": "Navigation principale"},
+  "cta": {"call": "Appelez-nous", "call_short": "Appeler", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Voir nos réalisations", "ask_price": "Demander un prix", "all_services": "Tous les services", "view_gallery": "Toute la galerie", "instagram": "Voir Instagram", "directions": "Ouvrir dans Google Maps", "contact_us": "Contactez-nous"},
+  "seo": {
+    "home_title": "Auto Design EMY – garnissage de volants et de sièges | Vogošća, Sarajevo",
+    "home_desc": "Garnissage de volants, de sièges et d’intérieurs de véhicules en cuir, Alcantara, tissu et simili-cuir. Rosulje 6, Vogošća. Tél. +387 61 938 601.",
+    "services_title": "Services – volant, sièges, panneaux de porte, ciel de toit | Auto Design EMY",
+    "services_desc": "Garnissage du volant, des sièges, du levier de vitesse, du frein à main, de l’accoudoir, des panneaux de porte, du tableau de bord et du ciel de toit, réparation de sièges et nettoyage en profondeur.",
+    "gallery_title": "Galerie – volants, sièges, intérieurs | Auto Design EMY",
+    "gallery_desc": "Photos et vidéos de volants, sièges et intérieurs de véhicules regarnis par l’atelier Auto Design EMY à Vogošća.",
+    "about_title": "À propos | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY est un atelier de Vogošća spécialisé dans le garnissage et la sellerie d’intérieurs automobiles.",
+    "contact_title": "Contact – téléphone, WhatsApp, Viber, adresse | Auto Design EMY",
+    "contact_desc": "Appelez le +387 61 938 601 ou écrivez-nous sur WhatsApp et Viber. Rosulje 6, br. 1, Vogošća. Horaires : du lundi au samedi, 9 h – 17 h."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Garnissage de volants, de sièges et d’intérieurs automobiles",
+    "lead": "Cuir, cuir perforé, Alcantara, tissu et simili-cuir – dans les combinaisons et les couleurs de fil de votre choix.",
+    "services_title": "Ce que nous faisons",
+    "services_lead": "Du volant au ciel de toit – tout l’intérieur au même endroit.",
+    "materials_title": "Matériaux et finitions",
+    "materials_lead": "Vous choisissez le matériau, la combinaison et la couleur du fil. Exemples de nos réalisations :",
+    "work_title": "Réalisations",
+    "work_lead": "Quelques travaux terminés dans notre atelier.",
+    "why_title": "Pourquoi Auto Design EMY",
+    "steps_title": "Comment ça marche",
+    "social_title": "Suivez nos réalisations",
+    "social_lead": "Plus de 440 publications sur Instagram – de nouveaux travaux sont ajoutés régulièrement.",
+    "cta_title": "Envie d’un nouvel intérieur ?",
+    "cta_lead": "Appelez-nous ou envoyez une photo sur WhatsApp ou Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Volant", "text": "Cuir lisse, cuir perforé, Alcantara et combinaisons, fil de toutes les couleurs, remodelage du volant."},
+    "seats": {"title": "Sièges", "text": "Garnissage complet et réparation de sièges en tissu, simili-cuir, cuir et Alcantara."},
+    "interior": {"title": "Intérieur", "text": "Tableau de bord, levier de vitesse et frein à main, accoudoir, panneaux de porte et ciel de toit."},
+    "cleaning": {"title": "Nettoyage en profondeur", "text": "Nettoyage en profondeur de l’intérieur du véhicule."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Cuir perforé", "smooth_perf": "Cuir lisse et perforé", "diamond": "Surpiqûre losange", "honeycomb": "Surpiqûre nid d’abeille", "thread": "Fil de toutes les couleurs"},
+  "why": [
+    {"title": "Tout au même endroit", "text": "Volant, sièges, panneaux, ciel de toit et nettoyage en profondeur – dans un seul atelier."},
+    {"title": "Le matériau de votre choix", "text": "Cuir, cuir perforé, Alcantara, tissu et simili-cuir, ainsi que leurs combinaisons."},
+    {"title": "Des finitions selon vos envies", "text": "Fil de toutes les couleurs et combinaisons de matériaux selon vos goûts."},
+    {"title": "Des travaux visibles", "text": "Des centaines de publications sur nos profils montrent nos réalisations avant que vous décidiez."}
+  ],
+  "steps": [
+    {"title": "Contactez-nous", "text": "Appelez-nous ou écrivez-nous sur WhatsApp ou Viber."},
+    {"title": "Envoyez une photo", "text": "Une photo du volant, du siège ou de la pièce à regarnir nous aide à convenir plus vite du travail."},
+    {"title": "Fixons les détails", "text": "Ensemble, nous choisissons le matériau, la combinaison et la couleur du fil, et fixons une date."}
+  ],
+  "services": {
+    "title": "Services",
+    "lead": "Garnissage et sellerie d’intérieurs automobiles. Le prix dépend du véhicule, du matériau et de l’ampleur du travail – contactez-nous pour un devis.",
+    "wheel": {"title": "Volant", "items": ["Entièrement en cuir lisse", "Combinaison cuir lisse et cuir perforé", "Entièrement en Alcantara", "Combinaison cuir et Alcantara", "Fil de toutes les couleurs", "Remodelage du volant"]},
+    "seats": {"title": "Sièges", "items": ["Réparation de sièges", "Garnissage complet des sièges"], "materials_label": "Matériaux", "materials": "Tissu, simili-cuir, cuir, Alcantara", "combos_label": "Combinaisons", "combos": "Tissu–simili-cuir, tissu–cuir, simili-cuir–cuir, simili-cuir–Alcantara, cuir–Alcantara"},
+    "interior": {"title": "Intérieur", "items": ["Garnissage du tableau de bord", "Garnissage du pommeau et du soufflet de levier", "Garnissage du frein à main", "Garnissage de l’accoudoir", "Garnissage des panneaux de porte", "Garnissage du ciel de toit (tissu, Alcantara)"]},
+    "cleaning": {"title": "Nettoyage en profondeur", "items": ["Nettoyage en profondeur de l’intérieur du véhicule"]},
+    "price_msg": "Bonjour, je souhaite un prix pour : "
+  },
+  "gallery": {
+    "title": "Galerie",
+    "lead": "Photos et vidéos de travaux terminés. Pour en voir plus, suivez-nous sur Instagram.",
+    "all": "Tout", "wheels": "Volants", "seats": "Sièges", "interior": "Intérieur", "videos": "Vidéos",
+    "empty": "Aucune réalisation dans cette catégorie pour le moment.",
+    "close": "Fermer", "prev": "Précédent", "next": "Suivant", "open": "Ouvrir", "video": "Vidéo"
+  },
+  "about": {
+    "title": "À propos",
+    "lead": "Auto Design EMY est un atelier de Vogošća spécialisé dans le garnissage et la sellerie d’intérieurs automobiles.",
+    "p": [
+      "Nous travaillons sur les volants, les sièges, les leviers de vitesse et freins à main, les accoudoirs, les panneaux de porte, les tableaux de bord et les ciels de toit. Nous proposons aussi la réparation de sièges, le remodelage de volants et le nettoyage en profondeur.",
+      "Chez nous, vous choisissez le matériau – cuir, cuir perforé, Alcantara, tissu ou simili-cuir – et leurs combinaisons, ainsi que la couleur du fil. Votre intérieur prend ainsi exactement l’apparence que vous souhaitez.",
+      "Nous publions régulièrement nos réalisations sur Instagram, Facebook et TikTok, où vous pouvez voir des volants, sièges et intérieurs terminés avant de nous contacter."
+    ],
+    "facts_title": "En bref",
+    "fact_posts": "publications sur Instagram",
+    "fact_followers": "abonnés sur Instagram",
+    "fact_days": "jours d’ouverture par semaine"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Le plus rapide : un appel ou un message sur WhatsApp ou Viber.",
+    "phone": "Téléphone", "address": "Adresse", "hours": "Horaires",
+    "hours_value": "Du lundi au samedi : 9 h – 17 h",
+    "hours_short": "Lun – sam : 9 h – 17 h",
+    "map_title": "Carte de l’emplacement d’Auto Design EMY",
+    "map_load": "Afficher la carte",
+    "map_note": "La carte est chargée depuis Google Maps.",
+    "form_title": "Envoyer une demande via WhatsApp",
+    "form_lead": "Remplissez les champs : WhatsApp s’ouvrira avec un message prêt à envoyer. Vous pouvez envoyer des photos directement dans la conversation.",
+    "name": "Nom", "vehicle": "Véhicule (marque, modèle, année)", "service": "Service", "message": "Message",
+    "choose": "Choisissez un service", "other": "Autre",
+    "send": "Ouvrir WhatsApp", "send_viber": "Ou copier le message pour Viber",
+    "copied": "Message copié. Collez-le dans une conversation Viber.",
+    "required": "Champ obligatoire",
+    "msg_hello": "Bonjour, je vous envoie une demande depuis votre site web.",
+    "optional": "facultatif"
+  },
+  "footer": {"tagline": "Garnissage de volants, de sièges et d’intérieurs automobiles.", "follow": "Suivez-nous", "rights": "Tous droits réservés."},
+  "notfound": {"title": "Page introuvable", "text": "La page que vous cherchez n’existe pas.", "back": "Retour à l’accueil"}
+}

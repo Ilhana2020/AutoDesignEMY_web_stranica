@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% from "macros.html" import page_head with context %}
+{% block content %}
+{{ page_head(t.contact.title, t.contact.lead, t.nav.contact) }}
+<section class="wrap" style="padding-bottom:var(--section)">
+  <div class="contact-grid">
+    <div>
+      <div class="contact-list">
+        <a class="c-item" href="{{ tel }}"><span class="c-ico stroke">{{ icon('phone-line') }}</span><span><small>{{ t.contact.phone }}</small><strong class="ltr">{{ phone_display }}</strong></span></a>
+        <a class="c-item" href="{{ wa }}" target="_blank" rel="noopener"><span class="c-ico wa">{{ icon('whatsapp') }}</span><span><small>WhatsApp</small><strong class="ltr">{{ phone_display }}</strong></span></a>
+        <a class="c-item" href="{{ viber }}"><span class="c-ico vb">{{ icon('viber') }}</span><span><small>Viber</small><strong class="ltr">{{ phone_display }}</strong></span></a>
+        <a class="c-item" href="{{ maps_url }}" target="_blank" rel="noopener"><span class="c-ico stroke">{{ icon('pin') }}</span><span><small>{{ t.contact.address }}</small><strong>{{ address }}</strong></span></a>
+        <div class="c-item"><span class="c-ico stroke">{{ icon('clock') }}</span><span><small>{{ t.contact.hours }}</small><strong>{{ t.contact.hours_value }}</strong></span></div>
+      </div>
+      <div class="map" id="map">
+        <div class="map-inner">
+          <button class="btn btn-light" type="button" data-map-src="https://maps.google.com/maps?q={{ maps_query }}&amp;z=16&amp;output=embed" data-map-title="{{ t.contact.map_title }}">{{ icon('pin') }}{{ t.contact.map_load }}</button>
+          <small>{{ t.contact.map_note }}</small>
+          <a class="link-arrow" style="border-color:#fff" href="{{ maps_url }}" target="_blank" rel="noopener">{{ t.cta.directions }}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-card">
+      <span class="mark"></span>
+      <h2>{{ t.contact.form_title }}</h2>
+      <p>{{ t.contact.form_lead }}</p>
+      <form id="enquiry" novalidate data-wa="{{ wa_number }}">
+        <div class="form-row">
+          <div class="field"><label for="f-name">{{ t.contact.name }}</label><input id="f-name" name="name" autocomplete="name" required aria-describedby="e-name"><span class="err" id="e-name" hidden>{{ t.contact.required }}</span></div>
+          <div class="field"><label for="f-vehicle">{{ t.contact.vehicle }} <small>({{ t.contact.optional }})</small></label><input id="f-vehicle" name="vehicle"></div>
+        </div>
+        <div class="field"><label for="f-service">{{ t.contact.service }}</label>
+          <select id="f-service" name="service" required aria-describedby="e-service">
+            <option value="">{{ t.contact.choose }}</option>
+            {% for k in ['wheel', 'seats', 'interior', 'cleaning'] %}<option>{{ t.cards[k].title }}</option>{% endfor %}
+            <option>{{ t.contact.other }}</option>
+          </select><span class="err" id="e-service" hidden>{{ t.contact.required }}</span></div>
+        <div class="field"><label for="f-msg">{{ t.contact.message }} <small>({{ t.contact.optional }})</small></label><textarea id="f-msg" name="message"></textarea></div>
+        <div class="form-actions">
+          <button class="btn btn-wa" type="submit">{{ icon('whatsapp') }}{{ t.contact.send }}</button>
+          <button class="btn-text" type="button" id="copy-viber">{{ t.contact.send_viber }}</button>
+        </div>
+        <p class="form-status" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </div>
+</section>
+{% endblock %}

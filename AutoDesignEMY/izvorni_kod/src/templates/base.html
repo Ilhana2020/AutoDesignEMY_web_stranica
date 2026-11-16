@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}" dir="{{ dir }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<meta name="theme-color" content="#1C1D20">
+<meta name="format-detection" content="telephone=no">
+{% if site_url %}<link rel="canonical" href="{{ site_url }}{{ abs_path(lang, page) }}">
+{% for l in langs %}<link rel="alternate" hreflang="{{ l.code }}" href="{{ site_url }}{{ abs_path(l.code, page) }}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}{{ abs_path('bs', page) }}">
+{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Auto Design EMY">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:locale" content="{{ og_locale }}">
+<meta property="og:image" content="{% if site_url %}{{ site_url }}/{% else %}{{ root }}{% endif %}assets/img/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="{{ root }}assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ root }}assets/img/apple-touch-icon.png">
+<link rel="preload" href="{{ root }}assets/fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="{{ root }}assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ root }}assets/css/style.css?v={{ version }}">
+<script>document.documentElement.classList.add('js');</script>
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+</head>
+<body class="page-{{ page }}">
+<a class="skip" href="#main">{{ t.nav.skip }}</a>
+
+<header class="site-header" id="top">
+  <div class="wrap header-inner">
+    <a class="logo" href="{{ url(lang, 'home') }}" aria-label="Auto Design EMY – {{ t.nav.home }}">
+      <span class="logo-top">AUTO DESIGN</span><span class="logo-main">EMY</span>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="{{ t.nav.main }}">
+      <ul class="nav-list">
+        {% for p in nav_pages %}<li><a href="{{ url(lang, p) }}"{% if p == page %} aria-current="page"{% endif %}>{{ t.nav[p] }}</a></li>
+        {% endfor %}
+      </ul>
+      <div class="nav-extra">
+        <a class="btn btn-red" href="{{ tel }}">{{ icon('phone') }}{{ t.cta.call }} · <span class="ltr">{{ phone_display }}</span></a>
+        <a class="btn btn-wa" href="{{ wa }}" target="_blank" rel="noopener">{{ icon('whatsapp') }}{{ t.cta.whatsapp }}</a>
+      </div>
+    </nav>
+    <div class="header-actions">
+      <a class="btn btn-red header-call" href="{{ tel }}">{{ icon('phone') }}<span class="ltr">{{ phone_display }}</span></a>
+      <details class="lang">
+        <summary aria-label="{{ t.nav.language }}: {{ t.lang_name }}">{{ icon('globe') }}{{ lang }}</summary>
+        <ul class="lang-menu">
+          {% for l in langs %}<li><a href="{{ url(l.code, page) }}" hreflang="{{ l.code }}" lang="{{ l.code }}"{% if l.code == lang %} aria-current="true"{% endif %}>{{ l.name }} <span>{{ l.code }}</span></a></li>
+          {% endfor %}
+        </ul>
+      </details>
+      <button class="menu-toggle" type="button" aria-controls="main-nav" aria-expanded="false" aria-label="{{ t.nav.menu }}" data-label-open="{{ t.nav.menu }}" data-label-close="{{ t.nav.close }}"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+{% block content %}{% endblock %}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a class="logo logo-light" href="{{ url(lang, 'home') }}" aria-label="Auto Design EMY"><span class="logo-top">AUTO DESIGN</span><span class="logo-main">EMY</span></a>
+        <p>{{ t.footer.tagline }}</p>
+        <div class="footer-social">
+          {% for s in socials %}<a href="{{ s.url }}" target="_blank" rel="noopener" aria-label="{{ s.name }}">{{ icon(s.icon) }}</a>{% endfor %}
+        </div>
+      </div>
+      <div>
+        <h2>{{ t.nav.menu }}</h2>
+        <ul>{% for p in nav_pages %}<li><a href="{{ url(lang, p) }}">{{ t.nav[p] }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <h2>{{ t.nav.contact }}</h2>
+        <ul>
+          <li><a href="{{ tel }}" class="ltr">{{ phone_display }}</a></li>
+          <li><a href="{{ wa }}" target="_blank" rel="noopener">WhatsApp</a> · <a href="{{ viber }}">Viber</a></li>
+          <li><a href="{{ maps_url }}" target="_blank" rel="noopener">{{ address }}</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>{{ t.contact.hours }}</h2>
+        <ul><li>{{ t.contact.hours_value }}</li></ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© {{ year }} Auto Design EMY. {{ t.footer.rights }}</span>
+      <a href="#top" aria-label="↑ {{ t.nav.home }}">↑</a>
+    </div>
+  </div>
+</footer>
+
+<nav class="action-bar" aria-label="{{ t.nav.contact }}">
+  <a class="ab-call" href="{{ tel }}">{{ icon('phone') }}{{ t.cta.call_short }}</a>
+  <a class="ab-wa" href="{{ wa }}" target="_blank" rel="noopener">{{ icon('whatsapp') }}WhatsApp</a>
+  <a class="ab-vb" href="{{ viber }}">{{ icon('viber') }}Viber</a>
+</nav>
+
+{% if needs_lightbox %}
+<dialog class="lightbox" id="lightbox" aria-label="{{ t.nav.gallery }}">
+  <span class="lb-count" aria-live="polite"></span>
+  <div class="lb-stage"></div>
+  <p class="lb-cap"></p>
+  <button class="lb-btn lb-close" type="button" aria-label="{{ t.gallery.close }}"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  <button class="lb-btn lb-prev" type="button" aria-label="{{ t.gallery.prev }}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
+  <button class="lb-btn lb-next" type="button" aria-label="{{ t.gallery.next }}"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>
+</dialog>
+{% endif %}
+<script>window.EMY={root:"{{ root }}",lang:"{{ lang }}",labels:{{ js_labels | safe }}};</script>
+<script id="gallery-data" type="application/json">{{ gallery_json | safe }}</script>
+<script src="{{ root }}assets/js/main.js?v={{ version }}" defer></script>
+</body>
+</html>

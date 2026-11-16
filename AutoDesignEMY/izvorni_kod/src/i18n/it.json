@@ -1,0 +1,102 @@
+{
+  "lang_name": "Italiano",
+  "nav": {"home": "Home", "services": "Servizi", "gallery": "Galleria", "about": "Chi siamo", "contact": "Contatti", "menu": "Menu", "close": "Chiudi", "language": "Lingua", "skip": "Vai al contenuto", "main": "Navigazione principale"},
+  "cta": {"call": "Chiamaci", "call_short": "Chiama", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Guarda i lavori", "ask_price": "Chiedi il prezzo", "all_services": "Tutti i servizi", "view_gallery": "Tutta la galleria", "instagram": "Vai su Instagram", "directions": "Apri in Google Maps", "contact_us": "Contattaci"},
+  "seo": {
+    "home_title": "Auto Design EMY – rivestimento volanti e sedili | Vogošća, Sarajevo",
+    "home_desc": "Rivestimento di volanti, sedili e interni auto in pelle, Alcantara, tessuto e similpelle. Rosulje 6, Vogošća. Tel. +387 61 938 601.",
+    "services_title": "Servizi – volante, sedili, pannelli porta, cielo | Auto Design EMY",
+    "services_desc": "Rivestimento di volante, sedili, pomello del cambio, freno a mano, bracciolo, pannelli porta, cruscotto e cielo, riparazione sedili e pulizia profonda.",
+    "gallery_title": "Galleria – volanti, sedili, interni | Auto Design EMY",
+    "gallery_desc": "Foto e video di volanti, sedili e interni auto rivestiti nell’officina Auto Design EMY a Vogošća.",
+    "about_title": "Chi siamo | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY è un’officina di Vogošća specializzata nel rivestimento e nella tappezzeria degli interni auto.",
+    "contact_title": "Contatti – telefono, WhatsApp, Viber, indirizzo | Auto Design EMY",
+    "contact_desc": "Chiama il +387 61 938 601 o scrivici su WhatsApp e Viber. Rosulje 6, br. 1, Vogošća. Orari: lunedì–sabato, 9:00–17:00."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Rivestimento di volanti, sedili e interni auto",
+    "lead": "Pelle, pelle forata, Alcantara, tessuto e similpelle – nelle combinazioni e nei colori del filo che preferisci.",
+    "services_title": "Cosa facciamo",
+    "services_lead": "Dal volante al cielo – gli interni dell’auto in un unico posto.",
+    "materials_title": "Materiali e dettagli",
+    "materials_lead": "Scegli tu il materiale, la combinazione e il colore del filo. Esempi dai nostri lavori:",
+    "work_title": "Lavori in evidenza",
+    "work_lead": "Alcuni lavori completati nella nostra officina.",
+    "why_title": "Perché Auto Design EMY",
+    "steps_title": "Come funziona",
+    "social_title": "Segui i nostri lavori",
+    "social_lead": "Più di 440 post su Instagram – nuovi lavori vengono aggiunti regolarmente.",
+    "cta_title": "Vuoi un nuovo look per gli interni?",
+    "cta_lead": "Chiamaci o invia una foto su WhatsApp o Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Volante", "text": "Pelle liscia, pelle forata, Alcantara e combinazioni, filo di ogni colore, rimodellamento del volante."},
+    "seats": {"title": "Sedili", "text": "Rivestimento completo e riparazione dei sedili in tessuto, similpelle, pelle e Alcantara."},
+    "interior": {"title": "Interni", "text": "Cruscotto, cambio e freno a mano, bracciolo, pannelli porta e cielo."},
+    "cleaning": {"title": "Pulizia profonda", "text": "Pulizia profonda degli interni del veicolo."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Pelle forata", "smooth_perf": "Pelle liscia e forata", "diamond": "Cucitura a rombi", "honeycomb": "Cucitura a nido d’ape", "thread": "Filo di ogni colore"},
+  "why": [
+    {"title": "Tutto in un unico posto", "text": "Volante, sedili, pannelli, cielo e pulizia profonda – in una sola officina."},
+    {"title": "Il materiale che scegli tu", "text": "Pelle, pelle forata, Alcantara, tessuto e similpelle, e le loro combinazioni."},
+    {"title": "Dettagli come li vuoi tu", "text": "Filo di ogni colore e combinazioni di materiali secondo il tuo gusto."},
+    {"title": "Lavori che puoi vedere", "text": "Centinaia di post sui nostri profili mostrano i lavori finiti prima che tu decida."}
+  ],
+  "steps": [
+    {"title": "Contattaci", "text": "Chiamaci o scrivici su WhatsApp o Viber."},
+    {"title": "Invia una foto", "text": "Una foto del volante, del sedile o della parte da rivestire ci aiuta a definire il lavoro più velocemente."},
+    {"title": "Definiamo i dettagli", "text": "Insieme scegliamo materiale, combinazione e colore del filo e fissiamo un appuntamento."}
+  ],
+  "services": {
+    "title": "Servizi",
+    "lead": "Rivestimento e tappezzeria degli interni auto. Il prezzo dipende dal veicolo, dal materiale e dall’entità del lavoro – contattaci per un preventivo.",
+    "wheel": {"title": "Volante", "items": ["Interamente in pelle liscia", "Combinazione di pelle liscia e forata", "Interamente in Alcantara", "Combinazione di pelle e Alcantara", "Filo di ogni colore", "Rimodellamento del volante"]},
+    "seats": {"title": "Sedili", "items": ["Riparazione dei sedili", "Rivestimento completo dei sedili"], "materials_label": "Materiali", "materials": "Tessuto, similpelle, pelle, Alcantara", "combos_label": "Combinazioni", "combos": "Tessuto–similpelle, tessuto–pelle, similpelle–pelle, similpelle–Alcantara, pelle–Alcantara"},
+    "interior": {"title": "Interni", "items": ["Rivestimento del cruscotto", "Rivestimento di pomello e cuffia del cambio", "Rivestimento del freno a mano", "Rivestimento del bracciolo", "Rivestimento dei pannelli porta", "Rivestimento del cielo (tessuto, Alcantara)"]},
+    "cleaning": {"title": "Pulizia profonda", "items": ["Pulizia profonda degli interni del veicolo"]},
+    "price_msg": "Salve, vorrei un prezzo per: "
+  },
+  "gallery": {
+    "title": "Galleria",
+    "lead": "Foto e video di lavori completati. Per vederne altri, seguici su Instagram.",
+    "all": "Tutti", "wheels": "Volanti", "seats": "Sedili", "interior": "Interni", "videos": "Video",
+    "empty": "Non ci sono ancora lavori in questa categoria.",
+    "close": "Chiudi", "prev": "Precedente", "next": "Successivo", "open": "Apri", "video": "Video"
+  },
+  "about": {
+    "title": "Chi siamo",
+    "lead": "Auto Design EMY è un’officina di Vogošća specializzata nel rivestimento e nella tappezzeria degli interni auto.",
+    "p": [
+      "Rivestiamo volanti, sedili, pomelli del cambio e freni a mano, braccioli, pannelli porta, cruscotti e cieli. Offriamo anche riparazione dei sedili, rimodellamento del volante e pulizia profonda.",
+      "Da noi scegli il materiale – pelle, pelle forata, Alcantara, tessuto o similpelle – e le loro combinazioni, oltre al colore del filo. Così gli interni della tua auto avranno esattamente l’aspetto che desideri.",
+      "Pubblichiamo regolarmente i nostri lavori su Instagram, Facebook e TikTok, dove puoi vedere volanti, sedili e interni finiti prima di contattarci."
+    ],
+    "facts_title": "In breve",
+    "fact_posts": "post su Instagram",
+    "fact_followers": "follower su Instagram",
+    "fact_days": "giorni lavorativi a settimana"
+  },
+  "contact": {
+    "title": "Contatti",
+    "lead": "Il modo più rapido per raggiungerci è una chiamata o un messaggio su WhatsApp o Viber.",
+    "phone": "Telefono", "address": "Indirizzo", "hours": "Orari",
+    "hours_value": "Lunedì – sabato: 9:00 – 17:00",
+    "hours_short": "Lun – sab: 9:00 – 17:00",
+    "map_title": "Mappa della sede di Auto Design EMY",
+    "map_load": "Mostra la mappa",
+    "map_note": "La mappa viene caricata da Google Maps.",
+    "form_title": "Invia una richiesta tramite WhatsApp",
+    "form_lead": "Compila i campi e WhatsApp si aprirà con un messaggio pronto. Puoi inviare le foto direttamente nella chat.",
+    "name": "Nome", "vehicle": "Veicolo (marca, modello, anno)", "service": "Servizio", "message": "Messaggio",
+    "choose": "Scegli un servizio", "other": "Altro",
+    "send": "Apri WhatsApp", "send_viber": "Oppure copia il messaggio per Viber",
+    "copied": "Messaggio copiato. Incollalo in una chat Viber.",
+    "required": "Campo obbligatorio",
+    "msg_hello": "Salve, vi invio una richiesta dal vostro sito web.",
+    "optional": "facoltativo"
+  },
+  "footer": {"tagline": "Rivestimento di volanti, sedili e interni auto.", "follow": "Seguici", "rights": "Tutti i diritti riservati."},
+  "notfound": {"title": "Pagina non trovata", "text": "La pagina che cerchi non esiste.", "back": "Torna alla home"}
+}

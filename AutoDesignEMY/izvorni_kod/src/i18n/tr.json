@@ -1,0 +1,102 @@
+{
+  "lang_name": "Türkçe",
+  "nav": {"home": "Ana sayfa", "services": "Hizmetler", "gallery": "Galeri", "about": "Hakkımızda", "contact": "İletişim", "menu": "Menü", "close": "Kapat", "language": "Dil", "skip": "İçeriğe geç", "main": "Ana menü"},
+  "cta": {"call": "Bizi arayın", "call_short": "Ara", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Çalışmalarımızı görün", "ask_price": "Fiyat sorun", "all_services": "Tüm hizmetler", "view_gallery": "Tüm galeri", "instagram": "Instagram’a göz atın", "directions": "Google Haritalar’da aç", "contact_us": "Bize ulaşın"},
+  "seo": {
+    "home_title": "Auto Design EMY – direksiyon ve koltuk kaplama | Vogošća, Saraybosna",
+    "home_desc": "Deri, Alcantara, kumaş ve suni deri ile direksiyon, koltuk ve araç içi kaplama. Rosulje 6, Vogošća. Telefon: +387 61 938 601.",
+    "services_title": "Hizmetler – direksiyon, koltuk, kapı döşemesi, tavan | Auto Design EMY",
+    "services_desc": "Direksiyon, koltuk, vites topuzu, el freni, kolçak, kapı döşemesi, gösterge paneli ve tavan kaplama, koltuk tamiri ve detaylı temizlik.",
+    "gallery_title": "Galeri – direksiyonlar, koltuklar, araç içi | Auto Design EMY",
+    "gallery_desc": "Vogošća’daki Auto Design EMY atölyesinde kaplanan direksiyon, koltuk ve araç içlerinin fotoğraf ve videoları.",
+    "about_title": "Hakkımızda | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY, Vogošća’da araç içi kaplama ve döşeme işleri yapan bir atölyedir.",
+    "contact_title": "İletişim – telefon, WhatsApp, Viber, adres | Auto Design EMY",
+    "contact_desc": "+387 61 938 601 numarasını arayın veya WhatsApp ve Viber üzerinden yazın. Rosulje 6, br. 1, Vogošća. Çalışma saatleri: Pazartesi–Cumartesi, 09:00–17:00."
+  },
+  "home": {
+    "kicker": "Vogošća · Saraybosna",
+    "title": "Direksiyon, koltuk ve araç içi kaplama",
+    "lead": "Deri, delikli deri, Alcantara, kumaş ve suni deri – istediğiniz kombinasyon ve dikiş renginde.",
+    "services_title": "Neler yapıyoruz",
+    "services_lead": "Direksiyondan tavana – araç içi tek bir yerde.",
+    "materials_title": "Malzemeler ve detaylar",
+    "materials_lead": "Malzemeyi, kombinasyonu ve dikiş rengini siz seçersiniz. Çalışmalarımızdan örnekler:",
+    "work_title": "Öne çıkan çalışmalar",
+    "work_lead": "Atölyemizden tamamlanmış birkaç iş.",
+    "why_title": "Neden Auto Design EMY",
+    "steps_title": "Nasıl çalışıyoruz",
+    "social_title": "Çalışmalarımızı takip edin",
+    "social_lead": "Instagram’da 440’tan fazla paylaşım – yeni işler düzenli olarak ekleniyor.",
+    "cta_title": "Aracınızın içine yeni bir görünüm mü istiyorsunuz?",
+    "cta_lead": "Bizi arayın ya da WhatsApp veya Viber’dan fotoğraf gönderin."
+  },
+  "cards": {
+    "wheel": {"title": "Direksiyon", "text": "Düz deri, delikli deri, Alcantara ve kombinasyonları, her renkte dikiş ipliği, direksiyon formu değiştirme."},
+    "seats": {"title": "Koltuklar", "text": "Kumaş, suni deri, deri ve Alcantara ile komple koltuk kaplama ve tamiri."},
+    "interior": {"title": "Araç içi", "text": "Gösterge paneli, vites ve el freni, kolçak, kapı döşemeleri ve tavan."},
+    "cleaning": {"title": "Detaylı temizlik", "text": "Araç içinin detaylı temizliği."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Delikli deri", "smooth_perf": "Düz ve delikli deri", "diamond": "Baklava desenli dikiş", "honeycomb": "Petek desenli dikiş", "thread": "Her renkte dikiş ipliği"},
+  "why": [
+    {"title": "Her şey tek yerde", "text": "Direksiyon, koltuklar, döşemeler, tavan ve detaylı temizlik – tek bir atölyede."},
+    {"title": "Malzemeyi siz seçin", "text": "Deri, delikli deri, Alcantara, kumaş ve suni deri ile bunların kombinasyonları."},
+    {"title": "İstediğiniz detaylar", "text": "Her renkte dikiş ipliği ve zevkinize göre malzeme kombinasyonları."},
+    {"title": "Görebileceğiniz işler", "text": "Profillerimizdeki yüzlerce paylaşım, karar vermeden önce tamamlanmış işleri gösterir."}
+  ],
+  "steps": [
+    {"title": "Bize ulaşın", "text": "Bizi arayın ya da WhatsApp veya Viber’dan yazın."},
+    {"title": "Fotoğraf gönderin", "text": "Direksiyonun, koltuğun veya kaplatmak istediğiniz parçanın fotoğrafı, işi daha hızlı konuşmamıza yardımcı olur."},
+    {"title": "Detayları belirleyelim", "text": "Malzemeyi, kombinasyonu ve dikiş rengini birlikte seçer, randevu ayarlarız."}
+  ],
+  "services": {
+    "title": "Hizmetler",
+    "lead": "Araç içi kaplama ve döşeme. Fiyat; araca, malzemeye ve işin kapsamına göre değişir – teklif için bize ulaşın.",
+    "wheel": {"title": "Direksiyon", "items": ["Tamamen düz deri", "Düz ve delikli deri kombinasyonu", "Tamamen Alcantara", "Deri ve Alcantara kombinasyonu", "Her renkte dikiş ipliği", "Direksiyon formu değiştirme"]},
+    "seats": {"title": "Koltuklar", "items": ["Koltuk tamiri", "Komple koltuk kaplama"], "materials_label": "Malzemeler", "materials": "Kumaş, suni deri, deri, Alcantara", "combos_label": "Kombinasyonlar", "combos": "Kumaş–suni deri, kumaş–deri, suni deri–deri, suni deri–Alcantara, deri–Alcantara"},
+    "interior": {"title": "Araç içi", "items": ["Gösterge paneli kaplama", "Vites topuzu ve körüğü kaplama", "El freni kaplama", "Kolçak kaplama", "Kapı döşemesi kaplama", "Tavan kaplama (kumaş, Alcantara)"]},
+    "cleaning": {"title": "Detaylı temizlik", "items": ["Araç içinin detaylı temizliği"]},
+    "price_msg": "Merhaba, şu hizmet için fiyat öğrenmek istiyorum: "
+  },
+  "gallery": {
+    "title": "Galeri",
+    "lead": "Tamamlanmış işlerin fotoğraf ve videoları. Daha fazlası için bizi Instagram’da takip edin.",
+    "all": "Tümü", "wheels": "Direksiyonlar", "seats": "Koltuklar", "interior": "Araç içi", "videos": "Videolar",
+    "empty": "Bu kategoride henüz çalışma yok.",
+    "close": "Kapat", "prev": "Önceki", "next": "Sonraki", "open": "Aç", "video": "Video"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "lead": "Auto Design EMY, Vogošća’da araç içi kaplama ve döşeme işleri yapan bir atölyedir.",
+    "p": [
+      "Direksiyon, koltuk, vites topuzu ve el freni, kolçak, kapı döşemesi, gösterge paneli ve tavan kaplıyoruz. Ayrıca koltuk tamiri, direksiyon formu değiştirme ve detaylı temizlik hizmeti sunuyoruz.",
+      "Malzemeyi – deri, delikli deri, Alcantara, kumaş veya suni deri – ve bunların kombinasyonlarını, ayrıca dikiş rengini siz seçersiniz. Böylece aracınızın içi tam istediğiniz görünüme kavuşur.",
+      "Çalışmalarımızı düzenli olarak Instagram, Facebook ve TikTok’ta paylaşıyoruz; bize ulaşmadan önce tamamlanmış direksiyon, koltuk ve araç içlerini orada görebilirsiniz."
+    ],
+    "facts_title": "Kısaca",
+    "fact_posts": "Instagram paylaşımı",
+    "fact_followers": "Instagram takipçisi",
+    "fact_days": "haftalık çalışma günü"
+  },
+  "contact": {
+    "title": "İletişim",
+    "lead": "Bize en hızlı telefonla ya da WhatsApp ve Viber mesajıyla ulaşabilirsiniz.",
+    "phone": "Telefon", "address": "Adres", "hours": "Çalışma saatleri",
+    "hours_value": "Pazartesi – Cumartesi: 09:00 – 17:00",
+    "hours_short": "Pzt – Cmt: 09:00 – 17:00",
+    "map_title": "Auto Design EMY konum haritası",
+    "map_load": "Haritayı göster",
+    "map_note": "Harita Google Haritalar’dan yüklenir.",
+    "form_title": "WhatsApp ile talep gönderin",
+    "form_lead": "Alanları doldurun; WhatsApp hazır bir mesajla açılacaktır. Fotoğrafları doğrudan sohbette gönderebilirsiniz.",
+    "name": "Ad", "vehicle": "Araç (marka, model, yıl)", "service": "Hizmet", "message": "Mesaj",
+    "choose": "Hizmet seçin", "other": "Diğer",
+    "send": "WhatsApp’ı aç", "send_viber": "Veya mesajı Viber için kopyalayın",
+    "copied": "Mesaj kopyalandı. Viber sohbetine yapıştırın.",
+    "required": "Zorunlu alan",
+    "msg_hello": "Merhaba, web sitenizden talep gönderiyorum.",
+    "optional": "isteğe bağlı"
+  },
+  "footer": {"tagline": "Direksiyon, koltuk ve araç içi kaplama.", "follow": "Bizi takip edin", "rights": "Tüm hakları saklıdır."},
+  "notfound": {"title": "Sayfa bulunamadı", "text": "Aradığınız sayfa mevcut değil.", "back": "Ana sayfaya dön"}
+}

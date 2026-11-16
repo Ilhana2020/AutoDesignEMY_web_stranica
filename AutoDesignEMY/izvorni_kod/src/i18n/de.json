@@ -1,0 +1,102 @@
+{
+  "lang_name": "Deutsch",
+  "nav": {"home": "Startseite", "services": "Leistungen", "gallery": "Galerie", "about": "Über uns", "contact": "Kontakt", "menu": "Menü", "close": "Schließen", "language": "Sprache", "skip": "Zum Inhalt springen", "main": "Hauptnavigation"},
+  "cta": {"call": "Anrufen", "call_short": "Anrufen", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Arbeiten ansehen", "ask_price": "Preis anfragen", "all_services": "Alle Leistungen", "view_gallery": "Ganze Galerie", "instagram": "Instagram ansehen", "directions": "In Google Maps öffnen", "contact_us": "Kontaktieren Sie uns"},
+  "seo": {
+    "home_title": "Auto Design EMY – Lenkrad- und Sitzbezüge | Vogošća, Sarajevo",
+    "home_desc": "Neubezug von Lenkrädern, Sitzen und Fahrzeuginnenräumen in Leder, Alcantara, Stoff und Kunstleder. Rosulje 6, Vogošća. Tel. +387 61 938 601.",
+    "services_title": "Leistungen – Lenkrad, Sitze, Türverkleidung, Himmel | Auto Design EMY",
+    "services_desc": "Neubezug von Lenkrad, Sitzen, Schaltknauf, Handbremse, Armlehne, Türverkleidungen, Armaturenbrett und Dachhimmel, Sitzreparatur und Tiefenreinigung.",
+    "gallery_title": "Galerie – Lenkräder, Sitze, Innenräume | Auto Design EMY",
+    "gallery_desc": "Fotos und Videos neu bezogener Lenkräder, Sitze und Fahrzeuginnenräume aus der Werkstatt Auto Design EMY in Vogošća.",
+    "about_title": "Über uns | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY ist eine Werkstatt in Vogošća für Neubezug und Polsterung von Fahrzeuginnenräumen.",
+    "contact_title": "Kontakt – Telefon, WhatsApp, Viber, Adresse | Auto Design EMY",
+    "contact_desc": "Rufen Sie +387 61 938 601 an oder schreiben Sie uns über WhatsApp und Viber. Rosulje 6, br. 1, Vogošća. Öffnungszeiten: Montag–Samstag, 9–17 Uhr."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Neubezug von Lenkrad, Sitzen und Fahrzeuginnenraum",
+    "lead": "Leder, perforiertes Leder, Alcantara, Stoff und Kunstleder – in Kombinationen und Garnfarben nach Ihrem Wunsch.",
+    "services_title": "Was wir machen",
+    "services_lead": "Vom Lenkrad bis zum Dachhimmel – der Innenraum aus einer Hand.",
+    "materials_title": "Materialien und Details",
+    "materials_lead": "Sie wählen Material, Kombination und Garnfarbe. Beispiele aus unseren Arbeiten:",
+    "work_title": "Ausgewählte Arbeiten",
+    "work_lead": "Einige fertige Arbeiten aus der Werkstatt.",
+    "why_title": "Warum Auto Design EMY",
+    "steps_title": "So funktioniert es",
+    "social_title": "Folgen Sie unseren Arbeiten",
+    "social_lead": "Mehr als 440 Beiträge auf Instagram – regelmäßig kommen neue Arbeiten hinzu.",
+    "cta_title": "Neuer Look für Ihren Innenraum?",
+    "cta_lead": "Rufen Sie uns an oder senden Sie ein Foto über WhatsApp oder Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Lenkrad", "text": "Glattleder, perforiertes Leder, Alcantara und Kombinationen, Garn in allen Farben, Lenkrad-Umformung."},
+    "seats": {"title": "Sitze", "text": "Kompletter Neubezug und Reparatur von Sitzen in Stoff, Kunstleder, Leder und Alcantara."},
+    "interior": {"title": "Innenraum", "text": "Armaturenbrett, Schaltknauf und Handbremse, Armlehne, Türverkleidungen und Dachhimmel."},
+    "cleaning": {"title": "Tiefenreinigung", "text": "Tiefenreinigung des Fahrzeuginnenraums."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Perforiertes Leder", "smooth_perf": "Glattes und perforiertes Leder", "diamond": "Rautensteppung", "honeycomb": "Wabensteppung", "thread": "Garn in allen Farben"},
+  "why": [
+    {"title": "Alles aus einer Hand", "text": "Lenkrad, Sitze, Verkleidungen, Dachhimmel und Tiefenreinigung – in einer Werkstatt."},
+    {"title": "Material nach Wahl", "text": "Leder, perforiertes Leder, Alcantara, Stoff und Kunstleder sowie deren Kombinationen."},
+    {"title": "Details nach Ihrem Wunsch", "text": "Garn in allen Farben und Materialkombinationen nach Ihrem Geschmack."},
+    {"title": "Arbeiten, die Sie sehen können", "text": "Hunderte Beiträge auf unseren Profilen zeigen fertige Arbeiten, bevor Sie sich entscheiden."}
+  ],
+  "steps": [
+    {"title": "Melden Sie sich", "text": "Rufen Sie uns an oder schreiben Sie über WhatsApp oder Viber."},
+    {"title": "Senden Sie ein Foto", "text": "Ein Foto von Lenkrad, Sitz oder dem Teil, das bezogen werden soll, hilft uns, den Auftrag schneller abzustimmen."},
+    {"title": "Details vereinbaren", "text": "Gemeinsam wählen wir Material, Kombination und Garnfarbe und vereinbaren einen Termin."}
+  ],
+  "services": {
+    "title": "Leistungen",
+    "lead": "Neubezug und Polsterung von Fahrzeuginnenräumen. Der Preis hängt vom Fahrzeug, dem Material und dem Umfang ab – fragen Sie uns nach einem Angebot.",
+    "wheel": {"title": "Lenkrad", "items": ["Komplett in Glattleder", "Kombination aus Glatt- und perforiertem Leder", "Komplett in Alcantara", "Kombination aus Leder und Alcantara", "Garn in allen Farben", "Lenkrad-Umformung"]},
+    "seats": {"title": "Sitze", "items": ["Sitzreparatur", "Kompletter Sitzbezug"], "materials_label": "Materialien", "materials": "Stoff, Kunstleder, Leder, Alcantara", "combos_label": "Kombinationen", "combos": "Stoff–Kunstleder, Stoff–Leder, Kunstleder–Leder, Kunstleder–Alcantara, Leder–Alcantara"},
+    "interior": {"title": "Innenraum", "items": ["Neubezug des Armaturenbretts", "Neubezug von Schaltknauf und Schaltsack", "Neubezug der Handbremse", "Neubezug der Armlehne", "Neubezug der Türverkleidungen", "Neubezug des Dachhimmels (Stoff, Alcantara)"]},
+    "cleaning": {"title": "Tiefenreinigung", "items": ["Tiefenreinigung des Fahrzeuginnenraums"]},
+    "price_msg": "Hallo, ich möchte einen Preis anfragen für: "
+  },
+  "gallery": {
+    "title": "Galerie",
+    "lead": "Fotos und Videos fertiger Arbeiten. Noch mehr finden Sie auf Instagram.",
+    "all": "Alle", "wheels": "Lenkräder", "seats": "Sitze", "interior": "Innenraum", "videos": "Videos",
+    "empty": "In dieser Kategorie gibt es noch keine Arbeiten.",
+    "close": "Schließen", "prev": "Zurück", "next": "Weiter", "open": "Öffnen", "video": "Video"
+  },
+  "about": {
+    "title": "Über uns",
+    "lead": "Auto Design EMY ist eine Werkstatt in Vogošća für Neubezug und Polsterung von Fahrzeuginnenräumen.",
+    "p": [
+      "Wir beziehen Lenkräder, Sitze, Schaltknäufe und Handbremsen, Armlehnen, Türverkleidungen, Armaturenbretter und Dachhimmel. Außerdem bieten wir Sitzreparatur, Lenkrad-Umformung und Tiefenreinigung an.",
+      "Bei uns wählen Sie das Material – Leder, perforiertes Leder, Alcantara, Stoff oder Kunstleder – und deren Kombinationen sowie die Garnfarbe. So bekommt Ihr Innenraum genau den Look, den Sie möchten.",
+      "Unsere Arbeiten zeigen wir regelmäßig auf Instagram, Facebook und TikTok. Dort können Sie fertige Lenkräder, Sitze und Innenräume ansehen, bevor Sie uns kontaktieren."
+    ],
+    "facts_title": "Auf einen Blick",
+    "fact_posts": "Beiträge auf Instagram",
+    "fact_followers": "Follower auf Instagram",
+    "fact_days": "Arbeitstage pro Woche"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Am schnellsten erreichen Sie uns per Anruf oder Nachricht über WhatsApp und Viber.",
+    "phone": "Telefon", "address": "Adresse", "hours": "Öffnungszeiten",
+    "hours_value": "Montag – Samstag: 9:00 – 17:00 Uhr",
+    "hours_short": "Mo – Sa: 9 – 17 Uhr",
+    "map_title": "Karte mit dem Standort von Auto Design EMY",
+    "map_load": "Karte anzeigen",
+    "map_note": "Die Karte wird von Google Maps geladen.",
+    "form_title": "Anfrage über WhatsApp senden",
+    "form_lead": "Füllen Sie die Felder aus, dann öffnet sich WhatsApp mit einer vorbereiteten Nachricht. Fotos können Sie direkt im Chat senden.",
+    "name": "Name", "vehicle": "Fahrzeug (Marke, Modell, Baujahr)", "service": "Leistung", "message": "Nachricht",
+    "choose": "Leistung auswählen", "other": "Sonstiges",
+    "send": "WhatsApp öffnen", "send_viber": "Oder Nachricht für Viber kopieren",
+    "copied": "Nachricht kopiert. Fügen Sie sie in einen Viber-Chat ein.",
+    "required": "Pflichtfeld",
+    "msg_hello": "Hallo, ich sende eine Anfrage über Ihre Website.",
+    "optional": "optional"
+  },
+  "footer": {"tagline": "Neubezug von Lenkrad, Sitzen und Fahrzeuginnenraum.", "follow": "Folgen Sie uns", "rights": "Alle Rechte vorbehalten."},
+  "notfound": {"title": "Seite nicht gefunden", "text": "Die gesuchte Seite existiert nicht.", "back": "Zurück zur Startseite"}
+}

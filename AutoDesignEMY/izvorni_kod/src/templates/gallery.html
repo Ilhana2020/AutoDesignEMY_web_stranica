@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% from "macros.html" import tile, page_head, cta_block with context %}
+{% block content %}
+{{ page_head(t.gallery.title, t.gallery.lead, t.nav.gallery) }}
+<section class="wrap" aria-label="{{ t.gallery.title }}">
+  <div class="filters" role="group" aria-label="{{ t.gallery.title }}">
+    {% for f in ['all', 'wheels', 'seats', 'interior', 'videos'] %}
+    <button class="filter" type="button" data-filter="{{ f }}" aria-pressed="{{ 'true' if f == 'all' else 'false' }}">{{ t.gallery[f] }}</button>
+    {% endfor %}
+  </div>
+  <div class="grid" data-gallery="all">
+    {% for item in gallery %}{{ tile(item, loop.index0) }}{% endfor %}
+  </div>
+  <p class="empty" hidden>{{ t.gallery.empty }}</p>
+  <p style="margin-top:40px"><a class="btn btn-dark" href="{{ socials[0].url }}" target="_blank" rel="noopener">{{ icon('instagram') }}{{ t.cta.instagram }}</a></p>
+</section>
+{{ cta_block() }}
+{% endblock %}

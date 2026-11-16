@@ -1,0 +1,338 @@
+[
+ {
+  "id": "01_volan_vw_alcantara_koza",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/01_volan_vw_alcantara_koza.webp",
+  "src": "media/gallery/01_volan_vw_alcantara_koza.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "VW volan – alcantara i perforirana koža",
+   "en": "VW steering wheel – Alcantara and perforated leather"
+  },
+  "featured": true
+ },
+ {
+  "id": "volan-vw-alcantara-koza",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-vw-alcantara-koza-480.webp",
+  "full": "assets/img/volan-vw-alcantara-koza-960.webp",
+  "w": 1200,
+  "h": 1600,
+  "caption": {
+   "bs": "VW volan – alcantara i perforirana koža, crvena oznaka",
+   "en": "VW steering wheel – Alcantara and perforated leather, red centre marker"
+  },
+  "featured": false
+ },
+ {
+  "id": "13_sjedista_romb_crveni_konac",
+  "type": "video",
+  "cat": "seats",
+  "thumb": "media/gallery/13_sjedista_romb_crveni_konac.webp",
+  "src": "media/gallery/13_sjedista_romb_crveni_konac.mp4",
+  "w": 1280,
+  "h": 720,
+  "caption": {
+   "bs": "Sjedišta – prošivanje u obliku romba, crveni konac",
+   "en": "Seats – diamond stitching, red thread"
+  },
+  "featured": true
+ },
+ {
+  "id": "volan-mercedes-amg-tirkiz",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-mercedes-amg-tirkiz-480.webp",
+  "full": "assets/img/volan-mercedes-amg-tirkiz-596.webp",
+  "w": 596,
+  "h": 762,
+  "caption": {
+   "bs": "Mercedes-AMG volan – koža i tirkizni detalji",
+   "en": "Mercedes-AMG steering wheel – leather with turquoise details"
+  },
+  "featured": true
+ },
+ {
+  "id": "16_enterijer_sjedista_vrata",
+  "type": "video",
+  "cat": "interior",
+  "thumb": "media/gallery/16_enterijer_sjedista_vrata.webp",
+  "src": "media/gallery/16_enterijer_sjedista_vrata.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Sjedišta i tapacir vrata – šav u obliku saća",
+   "en": "Seats and door panels – honeycomb stitching"
+  },
+  "featured": false
+ },
+ {
+  "id": "volan-bmw-m-alcantara",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-bmw-m-alcantara-480.webp",
+  "full": "assets/img/volan-bmw-m-alcantara-960.webp",
+  "w": 1200,
+  "h": 1600,
+  "caption": {
+   "bs": "BMW M volan – alcantara, trobojni šav",
+   "en": "BMW M steering wheel – Alcantara with tricolour stitching"
+  },
+  "featured": true
+ },
+ {
+  "id": "17_tapacir_vrata",
+  "type": "video",
+  "cat": "interior",
+  "thumb": "media/gallery/17_tapacir_vrata.webp",
+  "src": "media/gallery/17_tapacir_vrata.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Tapacir vrata – šav u obliku saća",
+   "en": "Door panel – honeycomb stitching"
+  },
+  "featured": false
+ },
+ {
+  "id": "volan-mercedes-koza",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-mercedes-koza-480.webp",
+  "full": "assets/img/volan-mercedes-koza-960.webp",
+  "w": 1200,
+  "h": 1600,
+  "caption": {
+   "bs": "Volan – glatka i perforirana koža",
+   "en": "Steering wheel – smooth and perforated leather"
+  },
+  "featured": false
+ },
+ {
+  "id": "02_volan_bmw_m",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/02_volan_bmw_m.webp",
+  "src": "media/gallery/02_volan_bmw_m.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Presvučen volan",
+   "en": "Re-covered steering wheel"
+  },
+  "featured": false
+ },
+ {
+  "id": "volan-audi-alcantara",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-audi-alcantara-480.webp",
+  "full": "assets/img/volan-audi-alcantara-960.webp",
+  "w": 1200,
+  "h": 1600,
+  "caption": {
+   "bs": "Audi volan – alcantara, crvena oznaka",
+   "en": "Audi steering wheel – Alcantara, red centre marker"
+  },
+  "featured": false
+ },
+ {
+  "id": "03_volan_vw",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/03_volan_vw.webp",
+  "src": "media/gallery/03_volan_vw.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Presvučen volan",
+   "en": "Re-covered steering wheel"
+  },
+  "featured": false
+ },
+ {
+  "id": "volan-bmw-plava-oznaka",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-bmw-plava-oznaka-480.webp",
+  "full": "assets/img/volan-bmw-plava-oznaka-1440.webp",
+  "w": 1536,
+  "h": 2048,
+  "caption": {
+   "bs": "BMW volan – koža, plava oznaka",
+   "en": "BMW steering wheel – leather, blue centre marker"
+  },
+  "featured": true
+ },
+ {
+  "id": "04_volan_audi",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/04_volan_audi.webp",
+  "src": "media/gallery/04_volan_audi.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Presvučen volan",
+   "en": "Re-covered steering wheel"
+  },
+  "featured": false
+ },
+ {
+  "id": "volan-bmw-u-vozilu",
+  "type": "image",
+  "cat": "wheels",
+  "thumb": "assets/img/volan-bmw-u-vozilu-480.webp",
+  "full": "assets/img/volan-bmw-u-vozilu-1440.webp",
+  "w": 1536,
+  "h": 2048,
+  "caption": {
+   "bs": "BMW volan ugrađen u vozilo",
+   "en": "BMW steering wheel fitted in the car"
+  },
+  "featured": false
+ },
+ {
+  "id": "05_volan_mercedes_amg",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/05_volan_mercedes_amg.webp",
+  "src": "media/gallery/05_volan_mercedes_amg.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Presvučen volan",
+   "en": "Re-covered steering wheel"
+  },
+  "featured": false
+ },
+ {
+  "id": "06_volan_mercedes",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/06_volan_mercedes.webp",
+  "src": "media/gallery/06_volan_mercedes.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Volan – iz radionice u vozilo",
+   "en": "Steering wheel – from the workshop to the car"
+  },
+  "featured": false
+ },
+ {
+  "id": "07_volan_audi_radionica_vozilo",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/07_volan_audi_radionica_vozilo.webp",
+  "src": "media/gallery/07_volan_audi_radionica_vozilo.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Audi volan – iz radionice u vozilo",
+   "en": "Audi steering wheel – from the workshop to the car"
+  },
+  "featured": true
+ },
+ {
+  "id": "08_volan_bmw_u_vozilu",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/08_volan_bmw_u_vozilu.webp",
+  "src": "media/gallery/08_volan_bmw_u_vozilu.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "BMW volan ugrađen u vozilo",
+   "en": "BMW steering wheel fitted in the car"
+  },
+  "featured": false
+ },
+ {
+  "id": "09_volan_mercedes_g_u_vozilu",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/09_volan_mercedes_g_u_vozilu.webp",
+  "src": "media/gallery/09_volan_mercedes_g_u_vozilu.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Mercedes G – volan ugrađen u vozilo",
+   "en": "Mercedes G – steering wheel fitted in the car"
+  },
+  "featured": false
+ },
+ {
+  "id": "10_volan_audi_u_vozilu",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/10_volan_audi_u_vozilu.webp",
+  "src": "media/gallery/10_volan_audi_u_vozilu.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Audi volan ugrađen u vozilo",
+   "en": "Audi steering wheel fitted in the car"
+  },
+  "featured": false
+ },
+ {
+  "id": "11_volan_i_mjenjac_audi",
+  "type": "video",
+  "cat": "wheels",
+  "thumb": "media/gallery/11_volan_i_mjenjac_audi.webp",
+  "src": "media/gallery/11_volan_i_mjenjac_audi.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Audi – volan i mjenjač",
+   "en": "Audi – steering wheel and gear shifter"
+  },
+  "featured": false
+ },
+ {
+  "id": "12_mjenjac_audi",
+  "type": "video",
+  "cat": "interior",
+  "thumb": "media/gallery/12_mjenjac_audi.webp",
+  "src": "media/gallery/12_mjenjac_audi.mp4",
+  "w": 1280,
+  "h": 720,
+  "caption": {
+   "bs": "Presvučena ručica mjenjača",
+   "en": "Re-covered gear knob"
+  },
+  "featured": false
+ },
+ {
+  "id": "14_sjedista_romb",
+  "type": "video",
+  "cat": "seats",
+  "thumb": "media/gallery/14_sjedista_romb.webp",
+  "src": "media/gallery/14_sjedista_romb.mp4",
+  "w": 1280,
+  "h": 720,
+  "caption": {
+   "bs": "Sjedišta – prošivanje u obliku romba",
+   "en": "Seats – diamond stitching"
+  },
+  "featured": false
+ },
+ {
+  "id": "15_sjedista",
+  "type": "video",
+  "cat": "seats",
+  "thumb": "media/gallery/15_sjedista.webp",
+  "src": "media/gallery/15_sjedista.mp4",
+  "w": 720,
+  "h": 1280,
+  "caption": {
+   "bs": "Presvučena sjedišta",
+   "en": "Re-covered seats"
+  },
+  "featured": false
+ }
+]

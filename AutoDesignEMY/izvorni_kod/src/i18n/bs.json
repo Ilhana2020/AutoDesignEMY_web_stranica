@@ -1,0 +1,102 @@
+{
+  "lang_name": "Bosanski",
+  "nav": {"home": "Početna", "services": "Usluge", "gallery": "Galerija", "about": "O nama", "contact": "Kontakt", "menu": "Meni", "close": "Zatvori", "language": "Jezik", "skip": "Preskoči na sadržaj", "main": "Glavna navigacija"},
+  "cta": {"call": "Pozovite", "call_short": "Pozovi", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Pogledajte radove", "ask_price": "Pitajte za cijenu", "all_services": "Sve usluge", "view_gallery": "Cijela galerija", "instagram": "Pogledajte Instagram", "directions": "Otvori u Google Maps", "contact_us": "Kontaktirajte nas"},
+  "seo": {
+    "home_title": "Auto Design EMY – presvlačenje volana i sjedišta | Vogošća, Sarajevo",
+    "home_desc": "Presvlačenje volana, sjedišta i unutrašnjosti vozila u koži, alcantari, platnu i skaju. Rosulje 6, Vogošća. Pozovite 061 938 601.",
+    "services_title": "Usluge – volan, sjedišta, tapaciri, plafon | Auto Design EMY",
+    "services_desc": "Presvlačenje volana, sjedišta, mjenjača, ručne, naslona za ruku, tapacira vrata, instrument table i plafona, popravka sjedišta i dubinsko čišćenje.",
+    "gallery_title": "Galerija radova – volani, sjedišta, enterijer | Auto Design EMY",
+    "gallery_desc": "Fotografije i videi presvučenih volana, sjedišta i unutrašnjosti vozila iz radionice Auto Design EMY u Vogošći.",
+    "about_title": "O nama | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY je radionica iz Vogošće za presvlačenje i tapaciranje unutrašnjosti vozila.",
+    "contact_title": "Kontakt – telefon, WhatsApp, Viber, adresa | Auto Design EMY",
+    "contact_desc": "Pozovite 061 938 601 ili pišite na WhatsApp i Viber. Rosulje 6, br. 1, Vogošća. Radno vrijeme: ponedjeljak–subota, 09–17h."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Presvlačenje volana, sjedišta i unutrašnjosti vozila",
+    "lead": "Koža, perforirana koža, alcantara, platno i skaj – u kombinacijama i bojama konca po vašoj želji.",
+    "services_title": "Šta radimo",
+    "services_lead": "Od volana do plafona – unutrašnjost vozila na jednom mjestu.",
+    "materials_title": "Materijali i detalji",
+    "materials_lead": "Birate materijal, kombinaciju i boju konca. Primjeri iz naših radova:",
+    "work_title": "Izdvojeni radovi",
+    "work_lead": "Nekoliko završenih radova iz radionice.",
+    "why_title": "Zašto Auto Design EMY",
+    "steps_title": "Kako do novog izgleda",
+    "social_title": "Pratite naše radove",
+    "social_lead": "Više od 440 objava na Instagramu – novi radovi stižu redovno.",
+    "cta_title": "Želite novi izgled unutrašnjosti?",
+    "cta_lead": "Pozovite nas ili pošaljite fotografiju na WhatsApp ili Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Volan", "text": "Glatka koža, perforirana koža, alcantara i kombinacije, konac u svim bojama, preoblikovanje volana."},
+    "seats": {"title": "Sjedišta", "text": "Kompletno presvlačenje i popravka sjedišta u platnu, skaju, koži i alcantari."},
+    "interior": {"title": "Unutrašnjost", "text": "Instrument tabla, mjenjač i ručna, naslon za ruku, tapacir vrata i plafon."},
+    "cleaning": {"title": "Dubinsko čišćenje", "text": "Dubinsko čišćenje unutrašnjosti vozila."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Perforirana koža", "smooth_perf": "Glatka i perforirana koža", "diamond": "Prošivanje u obliku romba", "honeycomb": "Šav u obliku saća", "thread": "Konac u svim bojama"},
+  "why": [
+    {"title": "Sve na jednom mjestu", "text": "Volan, sjedišta, tapaciri, plafon i dubinsko čišćenje – u jednoj radionici."},
+    {"title": "Materijal po izboru", "text": "Koža, perforirana koža, alcantara, platno i skaj, te njihove kombinacije."},
+    {"title": "Detalji po vašoj želji", "text": "Konac u svim bojama i kombinacije materijala prema vašem ukusu."},
+    {"title": "Radovi koje možete vidjeti", "text": "Stotine objava na našim profilima pokazuju završene radove prije nego što se odlučite."}
+  ],
+  "steps": [
+    {"title": "Javite se", "text": "Pozovite nas ili pišite na WhatsApp ili Viber."},
+    {"title": "Pošaljite fotografiju", "text": "Fotografija volana, sjedišta ili dijela koji želite presvući pomaže da brže dogovorimo posao."},
+    {"title": "Dogovorimo detalje", "text": "Zajedno biramo materijal, kombinaciju i boju konca te dogovaramo termin."}
+  ],
+  "services": {
+    "title": "Usluge",
+    "lead": "Presvlačenje i tapaciranje unutrašnjosti vozila. Cijena zavisi od vozila, materijala i obima posla – javite se za ponudu.",
+    "wheel": {"title": "Volan", "items": ["Volan sav u glatkoj koži", "Kombinacija glatke i perforirane kože", "Volan sav u alcantari", "Kombinacija kože i alcantare", "Konac u svim bojama", "Preoblikovanje volana"]},
+    "seats": {"title": "Sjedišta", "items": ["Popravka sjedišta", "Kompletno presvlačenje sjedišta"], "materials_label": "Materijali", "materials": "Platno, skaj, koža, alcantara", "combos_label": "Kombinacije", "combos": "Platno–skaj, platno–koža, skaj–koža, skaj–alcantara, koža–alcantara"},
+    "interior": {"title": "Unutrašnjost", "items": ["Presvlačenje instrument table", "Presvlačenje ručice i kožice mjenjača", "Presvlačenje ručne", "Presvlačenje naslona za ruku", "Presvlačenje tapacira", "Presvlačenje plafona (platno, alcantara)"]},
+    "cleaning": {"title": "Dubinsko čišćenje", "items": ["Dubinsko čišćenje unutrašnjosti vozila"]},
+    "price_msg": "Pozdrav, zanima me cijena za: "
+  },
+  "gallery": {
+    "title": "Galerija",
+    "lead": "Fotografije i videi završenih radova. Za još više radova pratite nas na Instagramu.",
+    "all": "Sve", "wheels": "Volani", "seats": "Sjedišta", "interior": "Unutrašnjost", "videos": "Videi",
+    "empty": "U ovoj kategoriji još nema radova.",
+    "close": "Zatvori", "prev": "Prethodno", "next": "Sljedeće", "open": "Otvori", "video": "Video"
+  },
+  "about": {
+    "title": "O nama",
+    "lead": "Auto Design EMY je radionica iz Vogošće koja se bavi presvlačenjem i tapaciranjem unutrašnjosti vozila.",
+    "p": [
+      "Radimo volane, sjedišta, ručice mjenjača i ručne, naslone za ruku, tapacire vrata, instrument table i plafone. Uz to nudimo popravku sjedišta, preoblikovanje volana i dubinsko čišćenje.",
+      "Kod nas birate materijal – kožu, perforiranu kožu, alcantaru, platno ili skaj – i njihove kombinacije, kao i boju konca. Tako unutrašnjost vozila dobija izgled kakav želite.",
+      "Naše radove redovno objavljujemo na Instagramu, Facebooku i TikToku, gdje možete pogledati završene volane, sjedišta i enterijere prije nego što nas kontaktirate."
+    ],
+    "facts_title": "Ukratko",
+    "fact_posts": "objava na Instagramu",
+    "fact_followers": "pratilaca na Instagramu",
+    "fact_days": "radnih dana u sedmici"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Najbrže ćete nas dobiti pozivom ili porukom na WhatsApp i Viber.",
+    "phone": "Telefon", "address": "Adresa", "hours": "Radno vrijeme",
+    "hours_value": "Ponedjeljak – subota: 09:00 – 17:00",
+    "hours_short": "Pon – sub: 09 – 17h",
+    "map_title": "Mapa lokacije Auto Design EMY",
+    "map_load": "Prikaži mapu",
+    "map_note": "Mapu učitava Google Maps.",
+    "form_title": "Pošaljite upit preko WhatsAppa",
+    "form_lead": "Popunite polja i otvoriće se WhatsApp s pripremljenom porukom. Fotografije možete poslati direktno u razgovoru.",
+    "name": "Ime", "vehicle": "Vozilo (marka, model, godište)", "service": "Usluga", "message": "Poruka",
+    "choose": "Odaberite uslugu", "other": "Drugo",
+    "send": "Otvori WhatsApp", "send_viber": "Ili kopiraj poruku za Viber",
+    "copied": "Poruka je kopirana. Zalijepite je u Viber razgovor.",
+    "required": "Obavezno polje",
+    "msg_hello": "Pozdrav, šaljem upit sa web stranice.",
+    "optional": "neobavezno"
+  },
+  "footer": {"tagline": "Presvlačenje volana, sjedišta i unutrašnjosti vozila.", "follow": "Pratite nas", "rights": "Sva prava zadržana."},
+  "notfound": {"title": "Stranica nije pronađena", "text": "Stranica koju tražite ne postoji.", "back": "Nazad na početnu"}
+}

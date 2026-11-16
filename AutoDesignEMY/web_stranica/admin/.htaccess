@@ -1,0 +1,8 @@
+# Never serve the admin's PHP helpers, config or private data directly
+<FilesMatch "^(config|lib)\.php$">
+  Require all denied
+</FilesMatch>
+RedirectMatch 404 ^/admin/private/
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>

@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="nf wrap">
+  <div>
+    <span class="mark" style="margin-inline:auto"></span>
+    <h1>{{ t.notfound.title }}</h1>
+    <p class="lead" style="margin:16px auto">{{ t.notfound.text }}</p>
+    <a class="btn btn-red" href="{{ url(lang, 'home') }}">{{ t.notfound.back }}</a>
+  </div>
+</section>
+{% endblock %}

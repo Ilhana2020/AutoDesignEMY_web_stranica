@@ -1,0 +1,102 @@
+{
+  "lang_name": "Svenska",
+  "nav": {"home": "Hem", "services": "Tjänster", "gallery": "Galleri", "about": "Om oss", "contact": "Kontakt", "menu": "Meny", "close": "Stäng", "language": "Språk", "skip": "Hoppa till innehållet", "main": "Huvudnavigering"},
+  "cta": {"call": "Ring oss", "call_short": "Ring", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Se våra arbeten", "ask_price": "Fråga om pris", "all_services": "Alla tjänster", "view_gallery": "Hela galleriet", "instagram": "Se Instagram", "directions": "Öppna i Google Maps", "contact_us": "Kontakta oss"},
+  "seo": {
+    "home_title": "Auto Design EMY – klädsel av ratt och säten | Vogošća, Sarajevo",
+    "home_desc": "Omklädsel av ratt, säten och bilinredning i läder, Alcantara, tyg och konstläder. Rosulje 6, Vogošća. Ring +387 61 938 601.",
+    "services_title": "Tjänster – ratt, säten, dörrsidor, innertak | Auto Design EMY",
+    "services_desc": "Omklädsel av ratt, säten, växelspak, handbroms, armstöd, dörrsidor, instrumentbräda och innertak, reparation av säten och djuprengöring.",
+    "gallery_title": "Galleri – rattar, säten, inredning | Auto Design EMY",
+    "gallery_desc": "Foton och videor av omklädda rattar, säten och bilinredningar från verkstaden Auto Design EMY i Vogošća.",
+    "about_title": "Om oss | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY är en verkstad i Vogošća som arbetar med omklädsel och tapetsering av bilinredning.",
+    "contact_title": "Kontakt – telefon, WhatsApp, Viber, adress | Auto Design EMY",
+    "contact_desc": "Ring +387 61 938 601 eller skriv till oss på WhatsApp och Viber. Rosulje 6, br. 1, Vogošća. Öppettider: måndag–lördag, 09–17."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Omklädsel av ratt, säten och bilinredning",
+    "lead": "Läder, perforerat läder, Alcantara, tyg och konstläder – i de kombinationer och trådfärger du väljer.",
+    "services_title": "Vad vi gör",
+    "services_lead": "Från ratten till innertaket – bilens inredning på ett ställe.",
+    "materials_title": "Material och detaljer",
+    "materials_lead": "Du väljer material, kombination och trådfärg. Exempel från våra arbeten:",
+    "work_title": "Utvalda arbeten",
+    "work_lead": "Några färdiga arbeten från verkstaden.",
+    "why_title": "Varför Auto Design EMY",
+    "steps_title": "Så går det till",
+    "social_title": "Följ våra arbeten",
+    "social_lead": "Mer än 440 inlägg på Instagram – nya arbeten läggs upp regelbundet.",
+    "cta_title": "Vill du ge inredningen ett nytt utseende?",
+    "cta_lead": "Ring oss eller skicka ett foto på WhatsApp eller Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Ratt", "text": "Slätt läder, perforerat läder, Alcantara och kombinationer, tråd i alla färger, omformning av ratt."},
+    "seats": {"title": "Säten", "text": "Komplett omklädsel och reparation av säten i tyg, konstläder, läder och Alcantara."},
+    "interior": {"title": "Inredning", "text": "Instrumentbräda, växelspak och handbroms, armstöd, dörrsidor och innertak."},
+    "cleaning": {"title": "Djuprengöring", "text": "Djuprengöring av bilens inredning."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Perforerat läder", "smooth_perf": "Slätt och perforerat läder", "diamond": "Diamantsöm", "honeycomb": "Bikakesöm", "thread": "Tråd i alla färger"},
+  "why": [
+    {"title": "Allt på ett ställe", "text": "Ratt, säten, dörrsidor, innertak och djuprengöring – i en och samma verkstad."},
+    {"title": "Material efter eget val", "text": "Läder, perforerat läder, Alcantara, tyg och konstläder samt kombinationer av dem."},
+    {"title": "Detaljer som du vill ha dem", "text": "Tråd i alla färger och materialkombinationer efter din smak."},
+    {"title": "Arbeten du kan se", "text": "Hundratals inlägg på våra profiler visar färdiga arbeten innan du bestämmer dig."}
+  ],
+  "steps": [
+    {"title": "Hör av dig", "text": "Ring oss eller skriv på WhatsApp eller Viber."},
+    {"title": "Skicka ett foto", "text": "Ett foto av ratten, sätet eller delen du vill klä om hjälper oss att komma överens om jobbet snabbare."},
+    {"title": "Vi bestämmer detaljerna", "text": "Tillsammans väljer vi material, kombination och trådfärg och bokar en tid."}
+  ],
+  "services": {
+    "title": "Tjänster",
+    "lead": "Omklädsel och tapetsering av bilinredning. Priset beror på bilen, materialet och arbetets omfattning – kontakta oss för en offert.",
+    "wheel": {"title": "Ratt", "items": ["Helt i slätt läder", "Kombination av slätt och perforerat läder", "Helt i Alcantara", "Kombination av läder och Alcantara", "Tråd i alla färger", "Omformning av ratt"]},
+    "seats": {"title": "Säten", "items": ["Reparation av säten", "Komplett omklädsel av säten"], "materials_label": "Material", "materials": "Tyg, konstläder, läder, Alcantara", "combos_label": "Kombinationer", "combos": "Tyg–konstläder, tyg–läder, konstläder–läder, konstläder–Alcantara, läder–Alcantara"},
+    "interior": {"title": "Inredning", "items": ["Omklädsel av instrumentbräda", "Omklädsel av växelspaksknopp och damask", "Omklädsel av handbroms", "Omklädsel av armstöd", "Omklädsel av dörrsidor", "Omklädsel av innertak (tyg, Alcantara)"]},
+    "cleaning": {"title": "Djuprengöring", "items": ["Djuprengöring av bilens inredning"]},
+    "price_msg": "Hej, jag vill veta priset för: "
+  },
+  "gallery": {
+    "title": "Galleri",
+    "lead": "Foton och videor av färdiga arbeten. Följ oss på Instagram för att se ännu fler.",
+    "all": "Alla", "wheels": "Rattar", "seats": "Säten", "interior": "Inredning", "videos": "Videor",
+    "empty": "Det finns inga arbeten i den här kategorin ännu.",
+    "close": "Stäng", "prev": "Föregående", "next": "Nästa", "open": "Öppna", "video": "Video"
+  },
+  "about": {
+    "title": "Om oss",
+    "lead": "Auto Design EMY är en verkstad i Vogošća som arbetar med omklädsel och tapetsering av bilinredning.",
+    "p": [
+      "Vi klär om rattar, säten, växelspakar och handbromsar, armstöd, dörrsidor, instrumentbrädor och innertak. Vi erbjuder också reparation av säten, omformning av rattar och djuprengöring.",
+      "Hos oss väljer du material – läder, perforerat läder, Alcantara, tyg eller konstläder – och kombinationer av dem, samt trådfärg. På så sätt får bilens inredning precis det utseende du vill ha.",
+      "Vi lägger regelbundet upp våra arbeten på Instagram, Facebook och TikTok, där du kan se färdiga rattar, säten och inredningar innan du kontaktar oss."
+    ],
+    "facts_title": "I korthet",
+    "fact_posts": "inlägg på Instagram",
+    "fact_followers": "följare på Instagram",
+    "fact_days": "arbetsdagar i veckan"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Snabbast når du oss genom att ringa eller skriva på WhatsApp eller Viber.",
+    "phone": "Telefon", "address": "Adress", "hours": "Öppettider",
+    "hours_value": "Måndag – lördag: 09:00 – 17:00",
+    "hours_short": "Mån – lör: 09–17",
+    "map_title": "Karta över Auto Design EMY:s plats",
+    "map_load": "Visa karta",
+    "map_note": "Kartan laddas från Google Maps.",
+    "form_title": "Skicka en förfrågan via WhatsApp",
+    "form_lead": "Fyll i fälten så öppnas WhatsApp med ett färdigt meddelande. Foton kan du skicka direkt i chatten.",
+    "name": "Namn", "vehicle": "Bil (märke, modell, år)", "service": "Tjänst", "message": "Meddelande",
+    "choose": "Välj en tjänst", "other": "Annat",
+    "send": "Öppna WhatsApp", "send_viber": "Eller kopiera meddelandet till Viber",
+    "copied": "Meddelandet är kopierat. Klistra in det i en Viber-chatt.",
+    "required": "Obligatoriskt fält",
+    "msg_hello": "Hej, jag skickar en förfrågan från er webbplats.",
+    "optional": "valfritt"
+  },
+  "footer": {"tagline": "Omklädsel av ratt, säten och bilinredning.", "follow": "Följ oss", "rights": "Alla rättigheter förbehållna."},
+  "notfound": {"title": "Sidan hittades inte", "text": "Sidan du letar efter finns inte.", "back": "Tillbaka till startsidan"}
+}

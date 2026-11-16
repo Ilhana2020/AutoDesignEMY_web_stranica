@@ -1,0 +1,102 @@
+{
+  "lang_name": "Shqip",
+  "nav": {"home": "Ballina", "services": "Shërbimet", "gallery": "Galeria", "about": "Rreth nesh", "contact": "Kontakti", "menu": "Menyja", "close": "Mbyll", "language": "Gjuha", "skip": "Kalo te përmbajtja", "main": "Navigimi kryesor"},
+  "cta": {"call": "Na telefononi", "call_short": "Telefono", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "Shihni punimet", "ask_price": "Pyesni për çmimin", "all_services": "Të gjitha shërbimet", "view_gallery": "E gjithë galeria", "instagram": "Shihni Instagram", "directions": "Hape në Google Maps", "contact_us": "Na kontaktoni"},
+  "seo": {
+    "home_title": "Auto Design EMY – veshje e timonit dhe ndenjëseve | Vogošća, Sarajevë",
+    "home_desc": "Veshje e timonit, ndenjëseve dhe brendësisë së automjetit me lëkurë, Alcantara, pëlhurë dhe lëkurë sintetike. Rosulje 6, Vogošća. Tel. +387 61 938 601.",
+    "services_title": "Shërbimet – timoni, ndenjëset, panelet e dyerve, tavani | Auto Design EMY",
+    "services_desc": "Veshje e timonit, ndenjëseve, levës së marshit, frenës së dorës, mbështetëses së krahut, paneleve të dyerve, panelit të instrumenteve dhe tavanit, riparim ndenjëseje dhe pastrim i thellë.",
+    "gallery_title": "Galeria – timonë, ndenjëse, brendësi | Auto Design EMY",
+    "gallery_desc": "Foto dhe video të timonëve, ndenjëseve dhe brendësive të automjeteve të veshura në punishten Auto Design EMY në Vogošća.",
+    "about_title": "Rreth nesh | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY është një punishte në Vogošća që merret me veshjen dhe tapicerinë e brendësisë së automjeteve.",
+    "contact_title": "Kontakti – telefon, WhatsApp, Viber, adresa | Auto Design EMY",
+    "contact_desc": "Telefononi +387 61 938 601 ose na shkruani në WhatsApp dhe Viber. Rosulje 6, br. 1, Vogošća. Orari: e hënë–e shtunë, 09:00–17:00."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevë",
+    "title": "Veshje e timonit, ndenjëseve dhe brendësisë së automjetit",
+    "lead": "Lëkurë, lëkurë e shpuar, Alcantara, pëlhurë dhe lëkurë sintetike – në kombinimet dhe ngjyrat e fillit që zgjidhni ju.",
+    "services_title": "Çfarë bëjmë",
+    "services_lead": "Nga timoni deri te tavani – brendësia e automjetit në një vend.",
+    "materials_title": "Materialet dhe detajet",
+    "materials_lead": "Ju zgjidhni materialin, kombinimin dhe ngjyrën e fillit. Shembuj nga punimet tona:",
+    "work_title": "Punime të zgjedhura",
+    "work_lead": "Disa punime të përfunduara nga punishtja.",
+    "why_title": "Pse Auto Design EMY",
+    "steps_title": "Si funksionon",
+    "social_title": "Ndiqni punimet tona",
+    "social_lead": "Mbi 440 postime në Instagram – punime të reja shtohen rregullisht.",
+    "cta_title": "Dëshironi një pamje të re për brendësinë?",
+    "cta_lead": "Na telefononi ose dërgoni një foto në WhatsApp ose Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Timoni", "text": "Lëkurë e lëmuar, lëkurë e shpuar, Alcantara dhe kombinime, fill në çdo ngjyrë, riformësim i timonit."},
+    "seats": {"title": "Ndenjëset", "text": "Veshje e plotë dhe riparim i ndenjëseve me pëlhurë, lëkurë sintetike, lëkurë dhe Alcantara."},
+    "interior": {"title": "Brendësia", "text": "Paneli i instrumenteve, leva e marshit dhe frena e dorës, mbështetësja e krahut, panelet e dyerve dhe tavani."},
+    "cleaning": {"title": "Pastrim i thellë", "text": "Pastrim i thellë i brendësisë së automjetit."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Lëkurë e shpuar", "smooth_perf": "Lëkurë e lëmuar dhe e shpuar", "diamond": "Qepje në formë rombi", "honeycomb": "Qepje në formë hojeje", "thread": "Fill në çdo ngjyrë"},
+  "why": [
+    {"title": "Gjithçka në një vend", "text": "Timoni, ndenjëset, panelet, tavani dhe pastrimi i thellë – në një punishte të vetme."},
+    {"title": "Materiali sipas zgjedhjes", "text": "Lëkurë, lëkurë e shpuar, Alcantara, pëlhurë dhe lëkurë sintetike, si dhe kombinimet e tyre."},
+    {"title": "Detaje sipas dëshirës", "text": "Fill në çdo ngjyrë dhe kombinime materialesh sipas shijes suaj."},
+    {"title": "Punime që mund t’i shihni", "text": "Qindra postime në profilet tona tregojnë punime të përfunduara para se të vendosni."}
+  ],
+  "steps": [
+    {"title": "Na kontaktoni", "text": "Na telefononi ose na shkruani në WhatsApp ose Viber."},
+    {"title": "Dërgoni një foto", "text": "Një foto e timonit, ndenjëses ose pjesës që doni të vishet na ndihmon të merremi vesh më shpejt për punën."},
+    {"title": "Biem dakord për detajet", "text": "Së bashku zgjedhim materialin, kombinimin dhe ngjyrën e fillit dhe caktojmë një termin."}
+  ],
+  "services": {
+    "title": "Shërbimet",
+    "lead": "Veshje dhe tapiceri e brendësisë së automjeteve. Çmimi varet nga automjeti, materiali dhe vëllimi i punës – na kontaktoni për një ofertë.",
+    "wheel": {"title": "Timoni", "items": ["Tërësisht me lëkurë të lëmuar", "Kombinim lëkure të lëmuar dhe të shpuar", "Tërësisht me Alcantara", "Kombinim lëkure dhe Alcantara", "Fill në çdo ngjyrë", "Riformësim i timonit"]},
+    "seats": {"title": "Ndenjëset", "items": ["Riparim i ndenjëseve", "Veshje e plotë e ndenjëseve"], "materials_label": "Materialet", "materials": "Pëlhurë, lëkurë sintetike, lëkurë, Alcantara", "combos_label": "Kombinimet", "combos": "Pëlhurë–lëkurë sintetike, pëlhurë–lëkurë, lëkurë sintetike–lëkurë, lëkurë sintetike–Alcantara, lëkurë–Alcantara"},
+    "interior": {"title": "Brendësia", "items": ["Veshje e panelit të instrumenteve", "Veshje e dorezës dhe mbulesës së levës së marshit", "Veshje e frenës së dorës", "Veshje e mbështetëses së krahut", "Veshje e paneleve të dyerve", "Veshje e tavanit (pëlhurë, Alcantara)"]},
+    "cleaning": {"title": "Pastrim i thellë", "items": ["Pastrim i thellë i brendësisë së automjetit"]},
+    "price_msg": "Përshëndetje, dua të di çmimin për: "
+  },
+  "gallery": {
+    "title": "Galeria",
+    "lead": "Foto dhe video të punimeve të përfunduara. Për më shumë, na ndiqni në Instagram.",
+    "all": "Të gjitha", "wheels": "Timonë", "seats": "Ndenjëse", "interior": "Brendësia", "videos": "Video",
+    "empty": "Ende nuk ka punime në këtë kategori.",
+    "close": "Mbyll", "prev": "Mbrapa", "next": "Përpara", "open": "Hap", "video": "Video"
+  },
+  "about": {
+    "title": "Rreth nesh",
+    "lead": "Auto Design EMY është një punishte në Vogošća që merret me veshjen dhe tapicerinë e brendësisë së automjeteve.",
+    "p": [
+      "Veshim timonë, ndenjëse, leva marshi dhe frena dore, mbështetëse krahu, panele dyersh, panele instrumentesh dhe tavane. Gjithashtu ofrojmë riparim ndenjëseje, riformësim timoni dhe pastrim të thellë.",
+      "Te ne zgjidhni materialin – lëkurë, lëkurë të shpuar, Alcantara, pëlhurë ose lëkurë sintetike – dhe kombinimet e tyre, si dhe ngjyrën e fillit. Kështu brendësia e automjetit merr pikërisht pamjen që dëshironi.",
+      "Punimet tona i publikojmë rregullisht në Instagram, Facebook dhe TikTok, ku mund të shihni timonë, ndenjëse dhe brendësi të përfunduara para se të na kontaktoni."
+    ],
+    "facts_title": "Shkurtimisht",
+    "fact_posts": "postime në Instagram",
+    "fact_followers": "ndjekës në Instagram",
+    "fact_days": "ditë pune në javë"
+  },
+  "contact": {
+    "title": "Kontakti",
+    "lead": "Mënyra më e shpejtë për të na gjetur është një telefonatë ose mesazh në WhatsApp ose Viber.",
+    "phone": "Telefoni", "address": "Adresa", "hours": "Orari i punës",
+    "hours_value": "E hënë – e shtunë: 09:00 – 17:00",
+    "hours_short": "Hën – sht: 09:00 – 17:00",
+    "map_title": "Harta e vendndodhjes së Auto Design EMY",
+    "map_load": "Shfaq hartën",
+    "map_note": "Harta ngarkohet nga Google Maps.",
+    "form_title": "Dërgoni një kërkesë përmes WhatsApp",
+    "form_lead": "Plotësoni fushat dhe WhatsApp do të hapet me një mesazh të përgatitur. Fotot mund t’i dërgoni drejtpërdrejt në bisedë.",
+    "name": "Emri", "vehicle": "Automjeti (marka, modeli, viti)", "service": "Shërbimi", "message": "Mesazhi",
+    "choose": "Zgjidhni shërbimin", "other": "Tjetër",
+    "send": "Hap WhatsApp", "send_viber": "Ose kopjo mesazhin për Viber",
+    "copied": "Mesazhi u kopjua. Ngjiteni në një bisedë Viber.",
+    "required": "Fushë e detyrueshme",
+    "msg_hello": "Përshëndetje, po dërgoj një kërkesë nga faqja juaj e internetit.",
+    "optional": "opsionale"
+  },
+  "footer": {"tagline": "Veshje e timonit, ndenjëseve dhe brendësisë së automjetit.", "follow": "Na ndiqni", "rights": "Të gjitha të drejtat e rezervuara."},
+  "notfound": {"title": "Faqja nuk u gjet", "text": "Faqja që kërkoni nuk ekziston.", "back": "Kthehu në ballinë"}
+}

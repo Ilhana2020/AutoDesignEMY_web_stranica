@@ -1,0 +1,243 @@
+{
+ "volan-mercedes-amg-tirkiz": {
+  "w": 596,
+  "h": 762,
+  "webp": [
+   [
+    "volan-mercedes-amg-tirkiz-480.webp",
+    480
+   ],
+   [
+    "volan-mercedes-amg-tirkiz-596.webp",
+    596
+   ]
+  ],
+  "jpg": "volan-mercedes-amg-tirkiz-596.jpg"
+ },
+ "volan-vw-alcantara-koza": {
+  "w": 1200,
+  "h": 1600,
+  "webp": [
+   [
+    "volan-vw-alcantara-koza-480.webp",
+    480
+   ],
+   [
+    "volan-vw-alcantara-koza-960.webp",
+    960
+   ],
+   [
+    "volan-vw-alcantara-koza-1200.webp",
+    1200
+   ]
+  ],
+  "jpg": "volan-vw-alcantara-koza-960.jpg"
+ },
+ "volan-mercedes-koza": {
+  "w": 1200,
+  "h": 1600,
+  "webp": [
+   [
+    "volan-mercedes-koza-480.webp",
+    480
+   ],
+   [
+    "volan-mercedes-koza-960.webp",
+    960
+   ],
+   [
+    "volan-mercedes-koza-1200.webp",
+    1200
+   ]
+  ],
+  "jpg": "volan-mercedes-koza-960.jpg"
+ },
+ "volan-bmw-m-alcantara": {
+  "w": 1200,
+  "h": 1600,
+  "webp": [
+   [
+    "volan-bmw-m-alcantara-480.webp",
+    480
+   ],
+   [
+    "volan-bmw-m-alcantara-960.webp",
+    960
+   ],
+   [
+    "volan-bmw-m-alcantara-1200.webp",
+    1200
+   ]
+  ],
+  "jpg": "volan-bmw-m-alcantara-960.jpg"
+ },
+ "volan-audi-alcantara": {
+  "w": 1200,
+  "h": 1600,
+  "webp": [
+   [
+    "volan-audi-alcantara-480.webp",
+    480
+   ],
+   [
+    "volan-audi-alcantara-960.webp",
+    960
+   ],
+   [
+    "volan-audi-alcantara-1200.webp",
+    1200
+   ]
+  ],
+  "jpg": "volan-audi-alcantara-960.jpg"
+ },
+ "volan-bmw-plava-oznaka": {
+  "w": 1536,
+  "h": 2048,
+  "webp": [
+   [
+    "volan-bmw-plava-oznaka-480.webp",
+    480
+   ],
+   [
+    "volan-bmw-plava-oznaka-960.webp",
+    960
+   ],
+   [
+    "volan-bmw-plava-oznaka-1440.webp",
+    1440
+   ]
+  ],
+  "jpg": "volan-bmw-plava-oznaka-960.jpg"
+ },
+ "volan-bmw-u-vozilu": {
+  "w": 1536,
+  "h": 2048,
+  "webp": [
+   [
+    "volan-bmw-u-vozilu-480.webp",
+    480
+   ],
+   [
+    "volan-bmw-u-vozilu-960.webp",
+    960
+   ],
+   [
+    "volan-bmw-u-vozilu-1440.webp",
+    1440
+   ]
+  ],
+  "jpg": "volan-bmw-u-vozilu-960.jpg"
+ },
+ "sjediste-sace": {
+  "w": 1080,
+  "h": 1920,
+  "webp": [
+   [
+    "sjediste-sace-480.webp",
+    480
+   ],
+   [
+    "sjediste-sace-960.webp",
+    960
+   ],
+   [
+    "sjediste-sace-1080.webp",
+    1080
+   ]
+  ],
+  "jpg": "sjediste-sace-960.jpg"
+ },
+ "tapacir-vrata-sace": {
+  "w": 1080,
+  "h": 1920,
+  "webp": [
+   [
+    "tapacir-vrata-sace-480.webp",
+    480
+   ],
+   [
+    "tapacir-vrata-sace-960.webp",
+    960
+   ],
+   [
+    "tapacir-vrata-sace-1080.webp",
+    1080
+   ]
+  ],
+  "jpg": "tapacir-vrata-sace-960.jpg"
+ },
+ "sjedista-romb": {
+  "w": 1920,
+  "h": 1080,
+  "webp": [
+   [
+    "sjedista-romb-480.webp",
+    480
+   ],
+   [
+    "sjedista-romb-960.webp",
+    960
+   ],
+   [
+    "sjedista-romb-1440.webp",
+    1440
+   ]
+  ],
+  "jpg": "sjedista-romb-960.jpg"
+ },
+ "mat-alcantara": {
+  "w": 400,
+  "h": 400,
+  "webp": [
+   [
+    "mat-alcantara-400.webp",
+    400
+   ]
+  ],
+  "jpg": "mat-alcantara-400.jpg"
+ },
+ "mat-perforirana-koza": {
+  "w": 400,
+  "h": 400,
+  "webp": [
+   [
+    "mat-perforirana-koza-400.webp",
+    400
+   ]
+  ],
+  "jpg": "mat-perforirana-koza-400.jpg"
+ },
+ "mat-glatka-perforirana": {
+  "w": 400,
+  "h": 400,
+  "webp": [
+   [
+    "mat-glatka-perforirana-400.webp",
+    400
+   ]
+  ],
+  "jpg": "mat-glatka-perforirana-400.jpg"
+ },
+ "mat-romb": {
+  "w": 400,
+  "h": 400,
+  "webp": [
+   [
+    "mat-romb-400.webp",
+    400
+   ]
+  ],
+  "jpg": "mat-romb-400.jpg"
+ },
+ "mat-sace": {
+  "w": 400,
+  "h": 400,
+  "webp": [
+   [
+    "mat-sace-400.webp",
+    400
+   ]
+  ],
+  "jpg": "mat-sace-400.jpg"
+ }
+}

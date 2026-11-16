@@ -1,0 +1,102 @@
+{
+  "lang_name": "English",
+  "nav": {"home": "Home", "services": "Services", "gallery": "Gallery", "about": "About us", "contact": "Contact", "menu": "Menu", "close": "Close", "language": "Language", "skip": "Skip to content", "main": "Main navigation"},
+  "cta": {"call": "Call us", "call_short": "Call", "whatsapp": "WhatsApp", "viber": "Viber", "see_work": "See our work", "ask_price": "Ask for a price", "all_services": "All services", "view_gallery": "Full gallery", "instagram": "View Instagram", "directions": "Open in Google Maps", "contact_us": "Contact us"},
+  "seo": {
+    "home_title": "Auto Design EMY – steering wheel & seat upholstery | Vogošća, Sarajevo",
+    "home_desc": "Steering wheel, seat and car interior upholstery in leather, Alcantara, fabric and leatherette. Rosulje 6, Vogošća. Call +387 61 938 601.",
+    "services_title": "Services – steering wheel, seats, door panels, headliner | Auto Design EMY",
+    "services_desc": "Re-covering of steering wheels, seats, gear shifters, handbrakes, armrests, door panels, dashboards and headliners, seat repair and deep cleaning.",
+    "gallery_title": "Gallery – steering wheels, seats, interiors | Auto Design EMY",
+    "gallery_desc": "Photos and videos of re-covered steering wheels, seats and car interiors from the Auto Design EMY workshop in Vogošća.",
+    "about_title": "About us | Auto Design EMY, Vogošća",
+    "about_desc": "Auto Design EMY is a workshop in Vogošća specialising in car interior re-covering and upholstery.",
+    "contact_title": "Contact – phone, WhatsApp, Viber, address | Auto Design EMY",
+    "contact_desc": "Call +387 61 938 601 or message us on WhatsApp and Viber. Rosulje 6, br. 1, Vogošća. Opening hours: Monday–Saturday, 9:00–17:00."
+  },
+  "home": {
+    "kicker": "Vogošća · Sarajevo",
+    "title": "Steering wheel, seat and car interior upholstery",
+    "lead": "Leather, perforated leather, Alcantara, fabric and leatherette – in the combinations and thread colours you choose.",
+    "services_title": "What we do",
+    "services_lead": "From the steering wheel to the headliner – your car interior in one place.",
+    "materials_title": "Materials and details",
+    "materials_lead": "You choose the material, the combination and the thread colour. Examples from our work:",
+    "work_title": "Featured work",
+    "work_lead": "A few finished projects from the workshop.",
+    "why_title": "Why Auto Design EMY",
+    "steps_title": "How it works",
+    "social_title": "Follow our work",
+    "social_lead": "More than 440 posts on Instagram – new projects are added regularly.",
+    "cta_title": "Want a new look for your interior?",
+    "cta_lead": "Call us or send a photo on WhatsApp or Viber."
+  },
+  "cards": {
+    "wheel": {"title": "Steering wheel", "text": "Smooth leather, perforated leather, Alcantara and combinations, thread in any colour, steering wheel reshaping."},
+    "seats": {"title": "Seats", "text": "Complete re-covering and repair of seats in fabric, leatherette, leather and Alcantara."},
+    "interior": {"title": "Interior", "text": "Dashboard, gear shifter and handbrake, armrest, door panels and headliner."},
+    "cleaning": {"title": "Deep cleaning", "text": "Deep cleaning of the vehicle interior."}
+  },
+  "materials": {"alcantara": "Alcantara", "perforated": "Perforated leather", "smooth_perf": "Smooth and perforated leather", "diamond": "Diamond stitching", "honeycomb": "Honeycomb stitching", "thread": "Thread in any colour"},
+  "why": [
+    {"title": "Everything in one place", "text": "Steering wheel, seats, door panels, headliner and deep cleaning – in a single workshop."},
+    {"title": "Your choice of material", "text": "Leather, perforated leather, Alcantara, fabric and leatherette, and combinations of them."},
+    {"title": "Details the way you want", "text": "Thread in any colour and material combinations to suit your taste."},
+    {"title": "Work you can see", "text": "Hundreds of posts on our profiles show finished projects before you decide."}
+  ],
+  "steps": [
+    {"title": "Get in touch", "text": "Call us or message us on WhatsApp or Viber."},
+    {"title": "Send a photo", "text": "A photo of the steering wheel, seat or part you want re-covered helps us agree on the job faster."},
+    {"title": "Agree on the details", "text": "Together we choose the material, combination and thread colour, and set a date."}
+  ],
+  "services": {
+    "title": "Services",
+    "lead": "Car interior re-covering and upholstery. The price depends on the vehicle, the material and the scope of work – contact us for a quote.",
+    "wheel": {"title": "Steering wheel", "items": ["Full smooth leather", "Smooth and perforated leather combination", "Full Alcantara", "Leather and Alcantara combination", "Thread in any colour", "Steering wheel reshaping"]},
+    "seats": {"title": "Seats", "items": ["Seat repair", "Complete seat re-covering"], "materials_label": "Materials", "materials": "Fabric, leatherette, leather, Alcantara", "combos_label": "Combinations", "combos": "Fabric–leatherette, fabric–leather, leatherette–leather, leatherette–Alcantara, leather–Alcantara"},
+    "interior": {"title": "Interior", "items": ["Dashboard re-covering", "Gear knob and gear boot re-covering", "Handbrake re-covering", "Armrest re-covering", "Door panel re-covering", "Headliner re-covering (fabric, Alcantara)"]},
+    "cleaning": {"title": "Deep cleaning", "items": ["Deep cleaning of the vehicle interior"]},
+    "price_msg": "Hello, I would like a price for: "
+  },
+  "gallery": {
+    "title": "Gallery",
+    "lead": "Photos and videos of finished work. For even more, follow us on Instagram.",
+    "all": "All", "wheels": "Steering wheels", "seats": "Seats", "interior": "Interior", "videos": "Videos",
+    "empty": "No work in this category yet.",
+    "close": "Close", "prev": "Previous", "next": "Next", "open": "Open", "video": "Video"
+  },
+  "about": {
+    "title": "About us",
+    "lead": "Auto Design EMY is a workshop in Vogošća specialising in car interior re-covering and upholstery.",
+    "p": [
+      "We work on steering wheels, seats, gear knobs and handbrakes, armrests, door panels, dashboards and headliners. We also offer seat repair, steering wheel reshaping and deep cleaning.",
+      "You choose the material – leather, perforated leather, Alcantara, fabric or leatherette – and combinations of them, as well as the thread colour. That way your interior gets exactly the look you want.",
+      "We regularly post our work on Instagram, Facebook and TikTok, where you can see finished steering wheels, seats and interiors before you contact us."
+    ],
+    "facts_title": "At a glance",
+    "fact_posts": "posts on Instagram",
+    "fact_followers": "followers on Instagram",
+    "fact_days": "working days a week"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "The fastest way to reach us is a call or a message on WhatsApp or Viber.",
+    "phone": "Phone", "address": "Address", "hours": "Opening hours",
+    "hours_value": "Monday – Saturday: 9:00 – 17:00",
+    "hours_short": "Mon – Sat: 9:00 – 17:00",
+    "map_title": "Map showing the location of Auto Design EMY",
+    "map_load": "Show map",
+    "map_note": "The map is loaded from Google Maps.",
+    "form_title": "Send an enquiry via WhatsApp",
+    "form_lead": "Fill in the fields and WhatsApp will open with a prepared message. You can send photos directly in the chat.",
+    "name": "Name", "vehicle": "Vehicle (make, model, year)", "service": "Service", "message": "Message",
+    "choose": "Choose a service", "other": "Other",
+    "send": "Open WhatsApp", "send_viber": "Or copy the message for Viber",
+    "copied": "Message copied. Paste it into a Viber chat.",
+    "required": "Required field",
+    "msg_hello": "Hello, I am sending an enquiry from your website.",
+    "optional": "optional"
+  },
+  "footer": {"tagline": "Steering wheel, seat and car interior upholstery.", "follow": "Follow us", "rights": "All rights reserved."},
+  "notfound": {"title": "Page not found", "text": "The page you are looking for does not exist.", "back": "Back to home"}
+}
